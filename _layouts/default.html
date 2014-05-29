@@ -17,12 +17,112 @@
     <![endif]-->
   </head>
   <body>
-    <div class="container">
-      {{content}}
-    </div>
+    <header id="top-navbar" class="navbar navbar-trans navbar-fixed-top" role="navigation" data-spy="affix">
+      <div class="container">
+        <div class="row">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapsible">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/"><img src="/logo_webdiffusion_final_blanc.png" style="max-height: 100%;"></a>
+          </div>
+          <div class="navbar-collapse collapse" id="navbar-collapsible">
+
+            <ul class="nav navbar-nav navbar-left">
+              <li><a href="/projets">Productions</a></li>
+              <li><a href="/projets">Projets</a></li>
+              <li><a href="/etudes-de-cas">Études de cas</a></li>
+              <li><a href="/a-propos">Équipe</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#footer" class="btn btn-default">Contactez-nous</a></li>
+              <li><a href="/en"><small>EN</small></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+    {{content}}
+    <footer id="footer">
+      <div class="container text-center">
+        <h1>Démarrez votre webdiffusion</h1>
+        <div class="col-md-3">
+          <h2><span class="glyphicon glyphicon-earphone"></span><br/></h2>
+          514.360.5798
+        </div>
+        <div class="col-md-3">
+          <h2><span class="glyphicon glyphicon-envelope"></span><br/></h2>
+          <a href="mailto:claudia@agencewebdiffusion.com?subject=Nouvelle+webdiffusion">claudia@agencewebdiffusion.com</a>
+        </div>
+        <div class="col-md-6">
+          <h2><span class="glyphicon glyphicon-list-alt"></span></h2>
+          <form action="http://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
+            <!-- all your input fields here.... -->
+            <input type='text' class='form-control' name='nom' placeholder="Nom" />
+            <input type='text' class='form-control' name='organisation' placeholder="Organisation" />
+            <textarea class='form-control' name='projet' placeholder="Votre événement ou projet" rows='3' noresize></textarea>
+            <input type='text' class='form-control' name='contact' placeholder="Téléphone ou courriel" />
+            <input type='submit' class='form-control' value='Soumettre' />
+          </form>
+        </div>
+      </div>
+
+    </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/bootstrap/js/bootstrap.min.js"></script>
+    <style type="text/css">
+      @import url(http://fonts.googleapis.com/css?family=Raleway);
+      html, body {
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden;
+      }
+      body {
+        background: #B84136;
+        color: white;
+      }
+      a {
+        color: white;
+      }
+      h1,h2,h3 {
+        font-family: Raleway, sans-serif;
+      }
+      .icon-bar {
+        background: white;
+      }
+      .call-to-action {
+        padding-top: 5%;
+        padding-bottom: 5%;
+      }
+      #top-navbar {
+        background: black;
+        background-color: rgba(0,0,0,.35);
+      }
+      #leader {
+        display: table;
+      }
+      #leader .inner {
+        display: table-cell;
+        vertical-align: middle;
+      }
+
+      .btn-default {
+        color: inherit;
+        background-color: transparent;
+        border-color: #fff;
+      }
+      .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+        color: white;
+        background-color: rgba(0,0,0,.5);
+        border-color: #fff;
+      }
+
+    </style>
   </body>
 </html>

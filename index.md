@@ -1,83 +1,222 @@
 ---
-title: Agence Webdiffusion - Agence de développement et de production de webdiffusion
+title: Agence Webdiffusion - Agence de production et de développement de webdiffusion
 layout: default
 ---
+<section id="leader" class="cover text-center" style="background: url(http://lorempixel.com/1280/720) center; height: 90%; width: 100%; position: relative; background-size: cover;">
+  <div class="inner">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1" style="m">
 
-####Bienvenue à Agence Webdiffusion
+        <h1>Nous aidons nos clients à grandir par la webdiffusion</h1>
 
-##Nous aidons nos clients à grandir par la webdiffusion
+        <p class="lead">Agence Webdiffusion est une équipe de spécialistes en services de webdiffusion fondée pour offrir aux organismes et entreprises des solutions de webdiffusion adaptées à leur réalité</p>
 
-###Agence Webdiffusion est une équipe de spécialistes en services de webdiffusion fondée pour offrir aux organismes et entreprises des solutions de webdiffusion adaptées à leur réalité
+        <a href="#footer" class="btn btn-default btn-lg">Démarrez votre webdiffusion</a>
 
-###Nous avons compris que la réussite d'une webdiffusion passe par une démarche de projet et de collaboration entre tous les intervenants. C'est pourquoi nous offrons les services de projets et de consultation en webdiffusion en amont de la production.
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
 
-- Qu'est-ce qu'un projet de webdiffusion?
-- Qu'est-ce qu'une production de webdiffusion?
 
-####Une équipe pluridisciplinaire intégrale
 
-- Claudia Baillargeon, co-fondatrice, productrice et gestionnaire de webdiffusion
-- Daniel Tremblay, co-fondateur, opérateur et technologue de diffusion audiovisuelle
-- Mathieu Hélie, co-fondateur, architecte et stratège web
+<section id="introduction" class="text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1">
+        <h3>
+          Nous avons compris que la réussite d'une webdiffusion passe par une démarche de projet et de collaboration entre tous les intervenants. C'est pourquoi nous offrons les services de projets et de consultation en webdiffusion en amont de la production.
+        </h3>
+      </div>
+    </div>
+  </div>
+</section>
 
-####Des projets à plusieurs échelles
+<section id="solutions-productions">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 text-center">
+      <img src="http://lorempixel.com/1280/720" class="img-responsive"/>
+      <h2>Solutions de production</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 col-md-offset-2 col-sm-6">
+      <ul>
+        <li>Captation</li>
+        <li>Diffusion en direct</li>
+        <li>Réalisation</li>
+        <li>Plateau et studio</li>
+        <li>Montage et aiguillage</li>
+        <li>Graphiques superposés</li>
+      </ul>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <ul>
+        <li>Stratégie de contenu web</li>
+        <li>Rédaction de contenu</li>
+        <li>Production d'évènement web en direct</li>
+        <li>Analytiques de visionnement et de performance</li>
+        <li>Ligne téléphonique de support technique</li>
+      </ul>
+    </div>
+  </div>
 
-- Teamsters 2013, une méga-production de webdiffusion (Voir la vidéo)
-- Les conférences de l'AMVQ, une série semestrielle de formations exclusives (Voir la démo)
-- Le conseil municipal d'arrondissement de CDN-NDG (Accéder au site)
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 text-center">
+      <div class="text-center call-to-action">
+        Qu'est-ce qu'une production de webdiffusion? <a href="/productions" class="btn btn-default btn-lg">En savoir plus</a>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section id="solutions-projets">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 text-center">
+      <img src="http://lorempixel.com/1280/720" class="img-responsive"/>
+      <h2>Solutions de projet</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3">
+      <ul>
+        <li>Site d'événement de webdiffusion</li>
+        <li>Campagne de promotion d'événement</li>
+        <li>Design graphique</li>
+        <li>Design d'intéraction</li>
+        <li>Capsules vidéos pour la webdiffusion</li>
+        <li>Installations audiovisuelles de webdiffusion</li>
+        <li>Application de webdiffusion</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 text-center">
+      <div class="text-center call-to-action">
+      Qu'est-ce qu'un projet de webdiffusion? <a href="/projets" class="btn btn-default">En savoir plus</a>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
 
-####Solutions à plusieurs niveaux
 
-- Captation
-- Diffusion en direct
-- Réalisation
-- Plateau et studio
-- Montage et aiguillage
-- Graphiques superposés
-- Stratégie de contenu web
-- Rédaction de contenu
-- Design graphique
-- Design d'intéraction
-- Production d'évènement web
-- Analytiques de visionnement et de performance
-- Conception de capsules vidéos pour la webdiffusion
-- Développement et intégration d'installations audiovisuelles
-- Développement d'application de webdiffusion
+<section id="etudes-de-cas">
+  <div class="container">
+<h2 class="text-center">Des projets de plusieurs échelles</h2>
+<div class="row">
 
-> ### Agence Webdiffusion est un acteur clé dans le virage que prend notre organisation face aux nouvelles réalités - Michel Pépin, AMVQ
+<div class="col-md-2 col-md-offset-2 col-sm-4">
+<img src="http://placehold.it/150" class="img-responsive">
+<p>Teamsters 2013, une méga-production de webdiffusion</p>
+<a href="#video-teamsters" class="btn btn-default">Voir la vidéo</a>
+</div>
 
-####Des collaborateurs expérimentés et talentueux
+<div class="col-md-2 col-md-offset-1  col-sm-4">
+<img src="http://placehold.it/150" class="img-responsive">
+<p>Les conférences de l'AMVQ, une série semestrielle de formations exclusives</p>
+<a href="#demo-avmq" class="btn btn-default">Voir la démo</a>
+</div>
 
-- André Rousseau, réalisateur de webdiffusion sénior
-- Gunther Gamper, gestionnaire de webdiffusion
-- Sébastien Desrosiers, réalisateur web
-- Luc Bourque, réalisateur web
-- James Gagné, technicien réseau et gestionnaire de support informatique
-- Mikael Leblanc, opérateur-caméraman de webdiffusion
+<div class="col-md-2 col-md-offset-1  col-sm-4">
+<img src="http://placehold.it/150" class="img-responsive">
+<p>Le conseil municipal d'arrondissement de CDN-NDG</p>
+<a href="http://cdn-ndg.evenement.agencewebdiffusion.com" class="btn btn-default">Accéder au site</a>
 
-####Des partenaires solides
+</div>
+</div>
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 text-center">
+<div class="text-center call-to-action">
+  <a href="/etudes-de-cas" class="btn btn-default">Toutes nos études de cas</a>
+</div>
+</div></div>
+</div>
+</section>
 
-- Audiovisuel Le Diplomate
-- Globalia Agence Web
+<section id="clients">
+<div class="container">
+<div class="row">
+<div class="col-sm-10 col-sm-offset-1 text-center">
+<blockquote>
+  Agence Webdiffusion est un acteur clé dans le virage que prend notre organisation face aux nouvelles réalités de la formation continue
+  <footer>Michel Pépin, AMVQ</footer>
+</blockquote>
+<img src="http://placehold.it/1280x720&text=video" class="img-responsive">
+</div>
+</div>
+</div>
+</section>
+
+<section id="equipe">
+  <div class="container">
+<h2 class="text-center">Une équipe fondatrice pluridisciplinaire</h2>
+<div class="row">
+
+<div class="col-md-2 col-md-offset-2 col-sm-4">
+<img src="http://placehold.it/150" class="img-responsive img-circle">
+<p>Claudia Baillargeon, co-fondatrice, productrice et gestionnaire de webdiffusion</p>
+</div>
+
+<div class="col-md-2 col-md-offset-1  col-sm-4">
+<img src="http://placehold.it/150" class="img-responsive img-circle">
+<p>Daniel Tremblay, co-fondateur, opérateur et technologue de diffusion audiovisuelle</p>
+</div>
+
+<div class="col-md-2 col-md-offset-1  col-sm-4">
+<img src="http://placehold.it/150" class="img-responsive img-circle">
+<p>Mathieu Hélie, co-fondateur, architecte et stratège web</p>
+
+</div>
+</div>
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+
+      <h4>Des collaborateurs expérimentés et talentueux</h4>
+      <ul>
+        <li>André Rousseau, réalisateur de webdiffusion sénior</li>
+        <li>Gunther Gamper, gestionnaire de webdiffusion</li>
+        <li>Sébastien Desrosiers, réalisateur web</li>
+        <li>Luc Bourque, réalisateur web</li>
+        <li>James Gagné, technicien réseau et gestionnaire de support informatique</li>
+        <li>Mikael Leblanc, opérateur-caméraman de webdiffusion</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 text-center">
+<div class="text-center call-to-action">
+<a href="/a-propos" class="btn btn-default">À propos de nous</a>
+</div>
+
+</div>
+</div>
+</div>
+</section>
 
 ####Une plateforme web sans équivalent
 
-- L'intégration de nos services est possible grâce à notre plateforme de gestion
+- ![](http://placehold.it/150)
+
+  L'intégration de nos services est possible grâce à notre plateforme de gestion
   de contenu unique qui nous permet d'assurer que la production de webdiffusion
   se passera sans pépins techniques peu importe les défis de projets
-- La plateforme est basée sur un système de gestion de contenu open-source dernière
+- ![](http://placehold.it/150)
+
+  La plateforme est basée sur un système de gestion de contenu open-source dernière
   génération et offre toutes les possibilités de développement de fonctionnalités et de
   thématisation sur mesure
-- La spécialisation en webdiffusion de notre plateforme nous permet d'offrir un
+- ![](http://placehold.it/150)
+
+  La spécialisation en webdiffusion de notre plateforme nous permet d'offrir un
   projet de développement web avec des échéanciers rapides et moins de ressources
   appliquées.
 
-###Lancer votre projet de webdiffusion
-
-- Contactez-nous par téléphone
-- Contactez-nous par courriel
-- Contactez-nous par formulaire
-
-- Suivez-nous sur Twitter
-- Suivez-nous sur LinkedIn
-- Suivez-nous sur YouTube
+<div class="text-center call-to-action">
+<a href="/projets#demarche" class="btn btn-default">Notre démarche de projet</a>
+</div>
