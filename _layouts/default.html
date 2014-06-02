@@ -45,9 +45,7 @@
           </div>
         </div>
       </div>
-    </header>
-    {{content}}
-    <footer id="footer">
+    </header>{{content}}<footer id="footer">
       <div class="container text-center">
         <h1>Démarrez votre webdiffusion</h1>
         <div class="col-md-3">
@@ -81,16 +79,24 @@
       html, body {
         height: 100%;
         width: 100%;
+        display: block;
       }
       body {
         background: #B84136;
         color: white;
+      }
+      section {
+        padding-top: 30px;
       }
       a {
         color: white;
       }
       h1,h2,h3 {
         font-family: Raleway, sans-serif;
+      }
+      #footer {
+        background: black;
+        background-color: rgba(0,0,0,0.6);
       }
       .icon-bar {
         background: white;
@@ -115,6 +121,7 @@
         color: inherit;
         background-color: transparent;
         border-color: #fff;
+        border-width: 2px;
       }
       .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
         color: white;
