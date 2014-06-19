@@ -1,5 +1,5 @@
 ---
-title: Projets
+title: Les projets de webdiffusion
 layout: pages
 ---
 
