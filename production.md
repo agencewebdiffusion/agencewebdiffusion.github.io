@@ -6,7 +6,19 @@ layout: pages
 
 On appelle production de webdiffusion le procédé qui consiste à capter, encoder, transmettre, diffuser et distribuer du contenu vidéo en direct sur le web.
 
-## Progression des productions. Quelle types de production est-il possible de faire? Qu'est-ce que coûte la webdiffusion? Démos des différentes productions. Qu'est ce qu'un exemple de webdiffusion?
+Une production intégrale de webdiffusion nécessite les éléments suivants:
+
+- Une ou plusieurs caméras
+- Un ordinateur de sélection du signal vidéo ou un équipement d'aiguillage audiovisuel
+- Un ordinateur d'encodage et de transmission du signal vidéo
+- Une connexion réseau locale avec un serveur de diffusion global
+- Un serveur de diffusion qui transforme la transmission en canaux de diffusion
+- Un site web pour accéder à la webdiffusion
+- Un lecteur vidéo intégré au site pour se connecter à un canal de diffusion
+
+Réunir et intégrer tout ces éléments simultanément pour un événement en direct avec des échéanciers s'avère une démarche de coordonation et de planification angoissante. Nous partageons les leçons apprises avec vous pour que votre expérience soit la meilleure possible.
+
+### Que coûte la webdiffusion? Quelle types de production est-il possible de faire?
 
 Il existe une échelle très vaste de types de productions, généralement identifiables par le nombre de visiteurs connectés, du plus petit webinaire au grand rassemblement présidentiel. Les coûts de la webdiffusion varient en conséquence. Alors qu’il est maintenant possible de faire une webdiffusion de politique publique en haute qualité à partir de 3000$, les webdiffusions avec modèle de revenu se situe à des budgets de 7000$ par journée. Les grands événements de webdiffusion qui se déroule sur plusieurs jours, et dont l’envergure atteint le monde entier, atteignent des budgets de 70000$ et même plus. Il faut bien cibler son type de visiteurs et les participants en vedette de la webdiffusion lorsqu’on choisi le type de webdiffusion à produire.
 
@@ -20,7 +32,7 @@ Si vous souhaitez réaliser une webdiffusion ou une série de webdiffusions plus
 
 - Lire plus au sujet de notre service de support à la webdiffusion
 
-## multiplateforme au niveau visionnement. Sur quelle logiciel est-il possible de voir une webdiffusion? Sur quel appareil? Choix des plateformes de diffusion. Est-il possible de diffuser par Ustream, LiveStream ou YouTube?
+### Choisir sa plateforme de webdiffusion. YouTube, LiveStream, plugin?
 
 Une webdiffusion se visionne par une interface web, et il fallait généralement avoir recours à une page html avec un plugin pour distribuer le contenu aux visiteurs. Certaines de ces pages et plugins étaient fournis par des plateformes logicielles dont la license d’utilisation atteint des prix de plusieurs milliers de dollars, avec des technologies souvent désuètes. En 2014, les plateformes gratuites tels que Ustream, LiveStream et YouTube offre une alternative alléchante, mais deviennent rapidement couteuse et contraignantes lorsque les besoins de la production augmentent.
 
@@ -28,7 +40,7 @@ Agence Webdiffusion utilise des technologies standard compatible avec les platef
 
 - En savoir plus sur notre plateforme de webdiffusion, Drupal Webdiffusion
 
-## intégration de médias capture d’écrans powerpoint ou autre sources comme skype. Quelles sortes de support visuel peut on intégrer à une webdiffusion? Est-il possible de faire un appel vidéo par Skype? Comment j'intègre mon PowerPoint?
+### Quelles sortes de support visuel peut on intégrer à une webdiffusion? Comment j'intègre mon PowerPoint? Est-il possible de faire un appel vidéo par Skype?
 
 Dans la webdiffusion traditionelle, la qualité de la transmission ne permettait pas de communiquer des éléments graphiques détaillés par la vidéo. La solution de rechange consistait à présenter une séquence de diapositives PowerPoint côte-à-côte au présentateur, obligeant le client à faire une synchronisation au cours de la diffusion. Certaines plateformes de webdiffusion se basent toujours sur ce modèle en 2014, même si la bande passante et la technologie d’encodage permet maintenant la haute définition vidéo.
 
@@ -36,7 +48,7 @@ Nous avons choisi de laisser toute la place au présentateur dans notre platefor
 
 - Avez-vous une intégration visuelle complexe en tête? Contacter notre service de support pour une réponse rapide sur sa faisabilité.
 
-## Direction artistique/réalisation/super. Comment faire une webdiffusion qui se rapproche d'une qualité télévisuelle?
+### Comment faire une webdiffusion qui se rapproche d'une émission télé?
 
 La technologie est un complément au talent professionnel, et non un substitut. Pour exploiter au maximum le potentiel d’un événement payant ou de grande envergure, il faut avoir recours à une équipe de professionnels d’expériences qui s’occuperont de la direction artistique de la production, dont un réalisateur. Nous avons à plusieurs reprises intégrer un réalisateur d’événement en direct à nos productions, et même monter une équipe de réalisation pour les grandes productions. Le résultat sur le produit final est remarquable, et se perçoit par l’émotion des prises de vues, la précision des changements de plans et la pertinence des graphiques superposés à l’image.
 
@@ -45,7 +57,7 @@ Il faut reconnaître que l’ajout d’un réalisateur à l’équipe augmente l
 - En lire plus sur le rôle de gestionnaire de production
 - Rencontrer nos réalisateurs
 
-## Webdiffusion bilingue simultanée. Quoi faire si mon auditoire est bilingue?
+### Quoi faire si mon auditoire est bilingue? Une webdiffusion bilingue simultanée
 
 Une webdiffusion bilingue est un défi qui préoccupe beaucoup d’organisation canadienne et internationale. La complexité ajoutée à une production n’est néanmoins pas si affolante. À l’aide d’un traducteur spécialiste dans une loge de traduction standard, il est possible de transmettre deux bandes sonores à un serveur de diffusion, et les transcoder en deux webdiffusions, une pour l’auditoire de chaque langue. La plateforme de webdiffusion doit relier les deux diffusions d’une façon cohérente, ce qui est difficile avec les plateformes gratuites tel Ustream, conçu pour un marché à dominance anglophone. La plateforme d’Agence Webdiffusion, Drupal Webdiffusion, est conçue pour supporter le multilingue en profondeur, et permet aisément de monter une production de webdiffusion bilingue.
 
@@ -54,7 +66,7 @@ Si vous souhaitez produire une webdiffusion bilingue avec un sous-titrage plutô
 - Découvrir notre plateforme de webdiffusion, Drupal Webdiffusion
 - Des traductions ou assemblages sonores complexes en perspective? Contacter notre service de support en webdiffusion
 
-## Compression moderne optimisés pour la diffusion en direct en plusieurs niveaux de qualité. Quelle sorte de qualité de diffusion peut-on faire en 2014?
+### Quelle sorte de qualité de diffusion peut-on faire en 2014?
 
 Le futur est déjà arrivée, mais il n’est pas distribué de façon uniforme. Ça veut dire que, quoi qu’il soit maintenant chose simple de produire une webdiffusion en haute définition grâce à l’informatique nuagique et les réseaux mobiles LTE, les visiteurs qui y assistent ne sont pas tous branchés à une ligne suffisamment large pour en bénéficier. Les serveurs de transcodages, mis en marche uniquement les jours de production, se charge de baliser la qualité de diffusion à plusieurs niveaux, assurant de cette façon aux visiteurs le plus dépourvu de pouvoir participer à l’événement.
 
@@ -62,11 +74,11 @@ Même pour ces pauvres, la technologie d’**encodage** et la puissance des serv
 
 - lire comment utiliser la puissance de l’informatique nuagique pour éliminer les limites de la webdiffusion
 
-## Webdiffusion différée avec green screen. Quelle est une alternative pour présenter de l'information visuellement complexe en webdiffusion?
+### Une alternative pour présenter de l'information visuellement complexe en webdiffusion: la présentation différée avec green screen.
 
 Si les participants de votre événement sont un peu timide ou ont une présentation très complexe à faire, un peu de magie webdiffusionelle peut leur venir en aide. Un tournage en « fond vert », combiné avec un mode diffusion en différé ou mixte avec un segment en direct, permet de réduire la pression d’un événement intégralement en direct, et aussi d’exploiter les multiples possibilités techniques d’un tournage sur fond vert, tel l’intégration du présentateur à l’intérieur même de son support visuel (pensez monsieur météo sur sa carte).
 
-## Applications des productions: formations, accréditations, collaboration. Quelle type d'événement s'applique particulièrement bien à la webdiffusion?
+### Applications des productions: formations, accréditations, collaboration. Quelle type d'événement s'applique particulièrement bien à la webdiffusion?
 
 Étapes
 on est spécialiste dans la démarche complète de production de webdiffusion. Comment préparer une production de webdiffusion au complet? Quelles sont les étapes?
