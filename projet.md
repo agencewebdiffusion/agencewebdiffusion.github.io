@@ -6,7 +6,7 @@ layout: pages
 
 Toute entreprise ou organisation possède des particularités uniques. Ces particularités provoquent l’apparition de problèmes de nature unique, et il devient impossible d’appliquer des solutions préconçues, qui abondent sur le marché, pour les résoudre. Il faut, pour ainsi dire, appliquer une solution sur mesure, et avant d’appliquer cette solution, prendre les bonnes mesures.
 
-Agence Webdiffusion développe ses propres équipements et logiciels pour exploiter les potentiels de la webdiffusion et les talents de ses partenaires à leur maximum. Nos compétences de développement sont disponible à nos clients dans le cadre d’un projet.
+Agence Webdiffusion développe ses propres équipements et logiciels pour exploiter les potentiels de la webdiffusion et les talents de ses partenaires à leur maximum. Nos compétences de développement sont disponibles à nos clients dans le cadre d’un projet.
 
 Le résultat d’un projet peu prendre n’importe quelle forme, par exemple:
 
@@ -16,9 +16,9 @@ Le résultat d’un projet peu prendre n’importe quelle forme, par exemple:
 - une extension modulaire de la plateforme Drupal Webdiffusion qui ajoute une nouvelle fonctionnalité,
 - etc.
 
-Il existe dans le domaine du web quatres catégories de projets qui se succèdent pour atteindre un objectif établi au départ, ou solutionne un problème particulier.
+Il existe dans le domaine du web quatres catégories de projets qui se succèdent pour atteindre un objectif établi au départ, ou pour solutionner un problème particulier.
 
-Lorsqu’on lance un projet à partir d’un objectif fondé sur une hypothèse (par exemple, *un événement de webdiffusion peut augmenter l’efficacité de mon équipe de vente*), il est nécessaire de les traverser en ordre logique. Premièrement, il faut faire un projet de *recherche* pour éclairer la problématique et valider les hypothèses. Ensuite, un projet de *conception* pour définir la vision de la solution à apporter. Ensuite, un projet de *développement* pour assembler les parties définies dans la vision. Finalement, un projet d’*intégration* pour valider que la solution développée fonctionne à son optimum dans son contexte de production.
+Lorsqu’on lance un projet à partir d’un objectif fondé sur une hypothèse (par exemple, *un événement de webdiffusion peut augmenter l’efficacité de mon équipe de vente*), il est nécessaire de les traverser en ordre logique. Premièrement, il faut faire un projet de *recherche* pour éclairer la problématique et valider les hypothèses. Ensuite, un projet de *conception* pour définir la vision de la solution à apporter, suivi d'un projet de *développement* pour assembler les parties définies dans la vision. Finalement, un projet d’*intégration* pour valider que la solution développée fonctionne à de façon optimale dans son contexte de production.
 
 ### Le projet d’intégration
 
@@ -31,7 +31,7 @@ Lorsque nous travaillons pour votre projet d’intégration, nos équipes se dé
 
 ### Le projet de développement
 
-Un projet de développement consiste à construire des solutions technologiques uniques à une situation ou un problème. Si les technologies disponibles sur le marché sont insuffisantes, inélégantes, trop couteuses ou trop complexes, le développement d’une solution sur mesure peut être l’option préférable.
+Un projet de développement consiste à construire des solutions technologiques uniques à une situation ou un problème. Si les technologies disponibles sur le marché sont insuffisantes, inélégantes, trop coûteuses ou trop complexes, le développement d’une solution sur mesure peut être l’option préférable.
 
 Dans le contexte de la webdiffusion, une solution développée sur mesure prend la forme d’un module d’intéractivité, d’un équipement informatique mobile ou en réseau local, d’une installation de caméras de tous types reliées à des systèmes de transmission et d’activation, etc. Le développement d’une nouvelle solution est par sa nature une *innovation*, une nouvelle façon de faire en utilisant des technologies existantes et fiables et en y apportant des modifications, des extensions ou en les combinants d’une nouvelle façon.
 
@@ -42,9 +42,9 @@ Lorsque que les équipements et outils nécessaires à une production sont inexi
 
 ### Le projet de conception
 
-Concevoir une solution consiste à traduire une liste d’objectifs et de problèmes en modèles applicables au développement, c’est-à-dire en faire le dessin. La conception (aussi appelé design) cherche à explorer un grand nombre de modèles rapidement et les valider contre votre problématique pour ainsi éviter des projets de développement superflus ou trop complexe. Le produit de la conception est ainsi un facteur clé d’un projet de développement. Une solution mal conçue, si bien développée soit-elle, n’arrivera pas à résoudre le véritable problème. Un projet de développement sans concept risque de s’arrêter brusquement face à l’ambiguité de la solution.
+Concevoir une solution consiste à traduire une liste d’objectifs et de problèmes en modèles applicables au développement, c’est-à-dire en faire le dessin. La conception (aussi appelé design) cherche à explorer un grand nombre de modèles rapidement et les valider contre votre problématique pour ainsi éviter des projets de développement superflus ou trop complexes. Le produit de la conception est ainsi un facteur clé d’un projet de développement. Une solution mal conçue, si bien développée soit-elle, n’arrivera pas à résoudre le véritable problème. Un projet de développement sans concept risque de s’arrêter brusquement face à l’ambiguité de la solution.
 
-Les outils de conceptions sont multiples et se vantent tous d’être la raison du génie créateur. Dans le cadre de la webdiffusion, la conception se fait à l’aide de simples « wireframes » et schémas, démontrant quels parties sont inclues dans le système et quels rôles elles doivent jouer. Le plus simple l’outil, le plus simple le projet, et si un concept peut être exprimé sur une simple feuille de papier, tant mieux. On distingue un projet très simple d’un projet complexe au nombre de concept qu’il faut produire avant d’arrêter sur la bonne piste de solution. Pour cette raison, autant il peut être possible de concevoir une solution immédiatement après avoir clarifié le problème, autant il faut passer des jours à se creuser les méninges pour le résoudre.
+Les outils de conceptions sont multiples et se vantent tous d’être la raison du génie créateur. Dans le cadre de la webdiffusion, la conception se fait à l’aide de simples « wireframes » et schémas, démontrant quels parties sont inclues dans le système et quels rôles elles doivent jouer. Le plus simple l’outil, le plus simple le projet, et si un concept peut être exprimé sur une simple feuille de papier, tant mieux. On distingue un projet très simple d’un projet complexe au nombre de concepts qu’il faut produire avant d’arrêter sur la bonne piste de solution. Pour cette raison, autant il peut être possible de concevoir une solution immédiatement après avoir clarifié le problème, autant il faut passer des jours à se creuser les méninges pour le résoudre.
 
 !(img)[]
 
@@ -54,11 +54,11 @@ Si l’ensemble des solutions requises par votre problématique est difficile à
 
 Un projet de recherche consiste à creuser et questionner votre organisation pour en faire ressortir les dimensions de sa problématique, c’est-à-dire les objectifs à atteindre, les problèmes à résoudre, les contenus à produire, les potentiels à exploiter, etc.
 
-Il existe différents type de recherche dans le cadre de projet, à déterminer selon le type de questions que l’on se pose et les hypothèses proposées. Il y a quatre principaux axes de recherche dans un projet de développement web, selon le guide [Just Enough Research](http://www.abookapart.com/products/just-enough-research):
+Il existe différents type de recherche dans le cadre d'un projet, à déterminer selon le type de questions que l’on se pose et les hypothèses proposées. Il y a quatre principaux axes de recherche dans un projet de développement web, selon le guide [Just Enough Research](http://www.abookapart.com/products/just-enough-research):
 
 - la recherche organisationnelle répond à des questions sur l’organisation, c’est-à-dire quelle sont ses méthodes de travail, ses contacts avec la clientèle, ses mesures de performances, ses hiérarchies, etc. La recherche organisationnelle permet de clairement établir  les objectifs d’un projet, les critères de performance et l’impact que le projet aura sur une organisation, ainsi que les ressources et personnes qui seront affectées.
-  Les méthodes de la recherche organisationnelle sont les entrevues avec les personnes clés, l’observation des processus d’opérations et la lecture de la documentation interne. Le résultat est un portrait d’une cible à atteindre où tout les parties prenantes sont en accord.
-- la recherche utilisateur répond aux questions concernant les utilisateurs de la solution proposée, c’est-à-dire quels sont leur profils, comment s’attendent-ils à utiliser la solution, quels sont leurs enjeux et défis principaux à relever, etc. On arrive ainsi à formuler des « personnages » qui définiront la forme de la solution à concevoir - cette forme doit leur permettre d’effectuer des tâches le plus facilement possible.
+  Les méthodes de la recherche organisationnelle sont les entrevues avec les personnes clés, l’observation des processus d’opérations et la lecture de la documentation interne. Le résultat est un portrait d’une cible à atteindre où toutes les parties prenantes sont en accord.
+- la recherche utilisateur répond aux questions concernant les utilisateurs de la solution proposée, c’est-à-dire quels sont leurs profils, comment s’attendent-ils à utiliser la solution, quels sont leurs enjeux et défis principaux à relever, etc. On arrive ainsi à formuler des « personnages » qui définiront la forme de la solution à concevoir - cette forme doit leur permettre d’effectuer des tâches le plus facilement possible.
   L’entrevue est une partie importante mais non principale de la recherche utilisateur. Il faut aussi observer l’utilisateur dans son contexte d’utilisation (son bureau, un espace de vente, etc) pour véritablement en connaître leur contexte d’utilisation.
 - la recherche concurrentielle répond aux questions qui concernent les alternatives disponibles aux utilisateurs. Comment atteignent-ils leurs buts en l’absence de la solution proposée? Comment font-ils pour résoudre leurs problèmes? Un test d’utilisation sur les solutions concurrentes peut nous informer sur les opportunités à ne pas manquer et les erreurs à éviter dans notre nouvelle solution.
 - la recherche évaluative répond aux questions qui concerne les solutions déjà en place. Atteignent-elles réellement les ojectifs à remplir? En plus des méthodes analytiques (statistiques de visites, tests divisés), l’observation des utilisateurs dans leur utilisation permet de valider si la solution est performante et d’identifier où se trouvent toujours les lacunes à combler. On peut de cette façon prioritiser les améliorations à apporter de la plus bénéfique à la moindre, et améliorer la performance de la solution à un plus grand rythme.
@@ -75,15 +75,15 @@ L’estimation de la tâche d’une opération projet relève autant de l’art 
 
 Que se passe-t-il lorsque le projet comporte des innovations? Dans le cas de la production de logiciel, qui consiste à 100% d’innovation (le logiciel existant ne coute rien à produire), l’estimation est réputée pour être totalement inutile et inefficace, et les erreurs d’estimation sont la cause d’énorme dérapage de coûts, d’échéanciers et même la [mise en péril d’organisation entières](http://www.mckinsey.com/insights/business_technology/delivering_large-scale_it_projects_on_time_on_budget_and_on_value).
 
-Pourquoi cette historique d’échec? Parce que la discussion entre les informaticiens et les gestionnaires ne se fait pas sur un terrain d’entente mutuelle. Les gestionnaires sont concernés par les échéanciers, les informaticiens par les résultats concluants. Que se passe-t-il lorsqu’un gestionnaire demande à un informaticien si un projet d’innovation se terminera à un échéancier fixe? La réponse est moins que scientifique - l’informaticien fait une comparaison émotive à un projet semblable qu’il a conclu dans le passé, dont la pertinence diminue plus le projet est innovateur, et diminue encore plus si le projet est long et que l’informaticien a peu d’expérience. Voir http://blog.hut8labs.com/no-deadlines-for-you.html pour plus détails sur cette problématique et une méthode efficace de planification informatique.
+Pourquoi cet historique d’échec? Parce que la discussion entre les informaticiens et les gestionnaires ne se fait pas sur un terrain d’entente mutuelle. Les gestionnaires sont concernés par les échéanciers, les informaticiens par les résultats concluants. Que se passe-t-il lorsqu’un gestionnaire demande à un informaticien si un projet d’innovation se terminera à un échéancier fixe? La réponse est moins que scientifique - l’informaticien fait une comparaison émotive à un projet semblable qu’il a conclu dans le passé, dont la pertinence diminue plus le projet est innovateur, et diminue encore plus si le projet est long et que l’informaticien a peu d’expérience. Voir http://blog.hut8labs.com/no-deadlines-for-you.html pour plus détails sur cette problématique et une méthode efficace de planification informatique.
 
 Pour résoudre cette impasse, il faut une méthode de gestion de projet qui réduit les risques de toutes parts. Ces méthodes sont parfois appellées « agile », « scrum » ou autre, mais ont toutes certains points en commun: la décomposition d’opérations inconnues en plus petites opérations connues, ainsi que la participation active du client dans la sélection des priorités des opérations.
 
 ### La gestion de projet
 
-La gestion de projet est l’équilibrage de contraintes. Etant donné un échéancier, des ressources disponible, une envergure et un budget, comment organiser le travail pour atteindre les objectifs?
+La gestion de projet est l’équilibrage de contraintes. Étant donné un échéancier, des ressources disponible, une envergure et un budget, comment organiser le travail pour atteindre les objectifs?
 
-La contrainte principale dépend de la nature de l’organisation. Une entreprise en démarrage a des ressource fixes et un budget élastique, et peu facilement réduire l’envergure de son projet pour atteindre des échéanciers très court. Une association ou organisme public doit par contre être très rigoureuse avec les budgets, quitte à réduire l’envergure du travail.
+La contrainte principale dépend de la nature de l’organisation. Une entreprise en démarrage a des ressource fixes et un budget élastique, et peu facilement réduire l’envergure de son projet pour atteindre des échéanciers très court. Une association ou organisme public se doivent par contre être très rigoureux avec les budgets, quitte à réduire l’envergure du travail.
 
 (Image triangle de projet)
 
@@ -100,7 +100,7 @@ Nous avons compris que le calendrier de production de nos clients est primordial
 La démarche se déroule comme suit:
 
 - Dans le cadre du projet de recherche exploratoire, nous avons identifié et prioritisés vos objectifs pour en faire des opérations de projets.
-- Notre équipe défini ensuite les actions de projet sur chaque opérations: l’intégration, le développement, la conception et la recherche additionelle nécessaires.
+- Notre équipe définit ensuite les actions de projet sur chaque opération: l’intégration, le développement, la conception et la recherche additionelle nécessaire.
 - Notre équipe se met en action dans l’objectif d’avoir intégré la première opération de projet le plus rapidement, et vous offrir la certitude de production.
 - Le feedback d’intégration est rapporté au projet et les nouveaux items sont reprioritisés.
 
@@ -108,9 +108,9 @@ Vos budgets et échéanciers sont ainsi optimisés dans un cycle qui forme une b
 
 ### Le projet de thématisation
 
-Le design graphique est un type de projet subtile. Il affecte, grâce aux propriétés globales du langage CSS pour le web, tout les aspects d’un site web simultanément. Le design graphique est donc très fagile au changement de forme d’un site web.
+Le design graphique est un type de projet subtile. Il affecte, grâce aux propriétés globales du langage CSS pour le web, tous les aspects d’un site web simultanément. Le design graphique est donc très fagile au changement de forme d’un site web.
 
-Il est préférable que tout le contenu, ou un modèle approximatif du contenu très précis, soit en place avant d’en faire le design graphique. En utilisant la plateforme Drupal Webdiffusion, nous pouvons, avant même d’ajouter un graphiste au projet, intégrer tous les contenus et mettre en place les interactions de l’événement de webdiffusion. Le graphiste pourra ainsi se fonder sur une trame précise et des contraintes stables pour créer son thème, avec des méthodes efficaces de propagation graphique.
+Il est préférable que tout le contenu, ou un modèle approximatif du contenu très précis, soit en place avant d’en faire le design graphique. En utilisant la plateforme Drupal Webdiffusion, nous pouvons, avant même d’ajouter un graphiste au projet, intégrer tous les contenus et mettre en place les interactions de l’événement de webdiffusion. Le graphiste pourra ainsi se baser sur une trame précise et des contraintes stables pour créer son thème, avec des méthodes efficaces de propagation graphique.
 
 (Tableau de workflow de thématisation)
 

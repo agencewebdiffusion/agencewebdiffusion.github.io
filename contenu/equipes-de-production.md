@@ -11,9 +11,9 @@ Technicien réseau. Qui est responsable de la performance stable du réseau pour
 Support technique. Qui répond aux appels d'aides des spectateurs?
 Opérateur d’infographie. Qui prépare les graphiques superposés et titres des participants?
 Opérateur de instant replay. Qui monte les reprises d'un événement sportif?
-Preneurs de sons. Qui s'assure de la haute qualité du son?
+Preneurs de son. Qui s'assure de la haute qualité du son?
 Traducteurs. Qui produit la traduction en simultanée?
-Sous-titreurs. Qui produit les sous-titre en direct?
+Sous-titreurs. Qui produit les sous-titres en direct?
 Réalisateur. Qui prépare la scène, les angles de vues et organise les participants?
 Aiguilleur. Qui choisi le plan qui est diffusé en direct?
 Réalisateur de capsules. Comment produire du contenu en parallèle à l'événement et le diffuser en direct?
@@ -22,5 +22,5 @@ Total d’année d’expertise (30 ans combinés). Qu'est ce qui vous qualifie �
 
 
 Particularités
-on s’habille en noir et respecte l’image de la clientèle. Que faire pour ne pas que la production de webdiffusion ne créer une distraction dans mon évènement?
+on s’habille en noir et respecte l’image de la clientèle. Que faire pour ne pas que la production de webdiffusion ne cré une distraction dans mon évènement?
 Jusqu’où on se déplace. Quel est l'endroit idéal pour une production de webdiffusion? Quel sont les lieux disponibles? Peut-on produire dans plusieurs lieux?
