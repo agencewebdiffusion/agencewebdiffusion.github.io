@@ -96,7 +96,7 @@ Il y un avantage évident à ne pas réinventer la roue. Mais il y a un avantage
 
 ### Open-source, extensible, hébergement inclus. Est-ce que ma webdiffusion sera prisonnière de votre plateforme? Est-ce que je dois avoir un serveur pour l'héberger? Est-ce que je pourrai bâtir un site de plus en plus ambitieux avec cette plateforme?
 
-L’utilisation d’un logiciel libre et gratuit comme Drupal vient avec plusieurs avantages, mais aussi quelques inconvénients. L’inconvénient principal est que le système nécessite un serveur et un administrateur d’hébergement, ce qui n’est pas le cas pour une plateforme propriétaire comme YouTube. En échange de fournir soi-même l’hébergement du système, il est possible d’ajouter des modules de programmes qui ajoutent des fonctionnalités au système.
+L’utilisation d’un logiciel libre et gratuit comme Drupal vient avec plusieurs avantages, mais aussi quelques inconvénients. L’inconvénient principal est que le système nécessite un serveur et un administrateur d’hébergement, ce qui n’est pas le cas pour une plateforme propriétaire comme YouTube. Si on choisit de fournir soi-même l’hébergement du système, il est possible d’ajouter des modules de programmes qui ajoutent des fonctionnalités au système.
 
 Quelle est l’option préférable pour une organisation qui souhaite faire de la webdiffusion sur un plan à long-terme? Il faut ou se contenter des contraintes de la plateforme propriétaire, ou bien s’empêtrer de la gestion d’un logiciel et son hébergement.
 
