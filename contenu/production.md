@@ -3,6 +3,7 @@ title: Les productions de webdiffusion
 layout: pages
 ---
 # Qu'est-ce qu'une production de webdiffusion?
+<div class="waypoint-bg"  style="background-image: url(/images/bg-production.jpg)"></div>
 
 On appelle production de webdiffusion le procédé qui consiste à capter, encoder, transmettre, diffuser et distribuer du contenu vidéo en direct sur le web.
 

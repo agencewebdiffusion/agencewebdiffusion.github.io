@@ -3,7 +3,7 @@ title: Les projets de webdiffusion
 layout: pages
 ---
 # Les Projets
-
+<div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
 Toute entreprise ou organisation possède des particularités uniques. Ces particularités provoquent l’apparition de problèmes de nature unique, et il devient impossible d’appliquer des solutions préconçues, qui abondent sur le marché, pour les résoudre. Il faut, pour ainsi dire, appliquer une solution sur mesure, et avant d’appliquer cette solution, prendre les bonnes mesures.
 
 Agence Webdiffusion développe ses propres équipements et logiciels pour exploiter les potentiels de la webdiffusion et les talents de ses partenaires à leur maximum. Nos compétences de développement sont disponibles à nos clients dans le cadre d’un projet.
