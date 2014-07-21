@@ -55,16 +55,20 @@ html, body {
 
 }
 
-ul li {
-  list-style: circle;
+.cover {
+  min-height: 90%;
+  width: 100%;
+  position: relative;
+  display: table;
+  padding: 0;
+  > div {
+    display: table-cell;
+    vertical-align: middle;
+  }
 }
 
-ul ol {
-  list-style: decimal;
-}
-
-em, i {
-  font-style: italic;
+section {
+  padding-bottom: 10em;
 }
 
 #top-navbar {
@@ -79,6 +83,10 @@ em, i {
   margin-right: 15px;
 }
 
+#footer {
+  padding-top: 50px;
+}
+
 .icon-bar {
   background: white;
 }
@@ -86,13 +94,7 @@ em, i {
   padding-top: 5%;
   padding-bottom: 5%;
 }
-#leader {
-  display: table;
-}
-#leader .inner {
-  display: table-cell;
-  vertical-align: middle;
-}
+
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
   background-color: rgba(0,0,0,.5);
