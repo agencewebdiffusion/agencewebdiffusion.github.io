@@ -1411,7 +1411,7 @@ body {
   font-size: 18px;
   line-height: 1.619;
   color: white;
-  background-color: black;
+  background-color: #333333;
 }
 
 /* line 39, ../../../../../../usr/local/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap/_scaffolding.scss */
@@ -1468,7 +1468,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.619;
-  background-color: black;
+  background-color: #333333;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -3198,7 +3198,7 @@ th {
 }
 /* line 56, ../../../../../../usr/local/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap/_tables.scss */
 .table .table {
-  background-color: black;
+  background-color: #333333;
 }
 
 /* line 70, ../../../../../../usr/local/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap/_tables.scss */
@@ -4982,7 +4982,7 @@ tbody.collapse.in {
 /* line 98, ../../../../../../usr/local/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap/_navs.scss */
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   color: #555555;
-  background-color: black;
+  background-color: #333333;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -5075,7 +5075,7 @@ tbody.collapse.in {
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: black;
+    border-bottom-color: #333333;
   }
 }
 
@@ -6039,7 +6039,7 @@ a.badge:hover, a.badge:focus {
   padding: 4px;
   margin-bottom: 29px;
   line-height: 1.619;
-  background-color: black;
+  background-color: #333333;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -8072,8 +8072,13 @@ html, body {
   margin: 1.619em auto;
   text-align: center;
 }
+/* line 56, ../sass/styles.scss */
+.content-column img {
+  max-width: 100%;
+  height: auto;
+}
 
-/* line 58, ../sass/styles.scss */
+/* line 63, ../sass/styles.scss */
 .cover {
   min-height: 90%;
   width: 100%;
@@ -8081,18 +8086,18 @@ html, body {
   display: table;
   padding: 0;
 }
-/* line 64, ../sass/styles.scss */
+/* line 69, ../sass/styles.scss */
 .cover > div {
   display: table-cell;
   vertical-align: middle;
 }
 
-/* line 70, ../sass/styles.scss */
+/* line 75, ../sass/styles.scss */
 section {
   padding-bottom: 10em;
 }
 
-/* line 74, ../sass/styles.scss */
+/* line 79, ../sass/styles.scss */
 #top-navbar {
   background: black;
   background: rgba(0, 0, 0, 0.65);
@@ -8100,29 +8105,29 @@ section {
   padding-bottom: 9px;
 }
 
-/* line 81, ../sass/styles.scss */
+/* line 86, ../sass/styles.scss */
 #top-navbar .btn {
   margin-left: 15px;
   margin-right: 15px;
 }
 
-/* line 86, ../sass/styles.scss */
+/* line 91, ../sass/styles.scss */
 #footer {
   padding-top: 50px;
 }
 
-/* line 90, ../sass/styles.scss */
+/* line 95, ../sass/styles.scss */
 .icon-bar {
   background: white;
 }
 
-/* line 93, ../sass/styles.scss */
+/* line 98, ../sass/styles.scss */
 .call-to-action {
   padding-top: 5%;
   padding-bottom: 5%;
 }
 
-/* line 99, ../sass/styles.scss */
+/* line 104, ../sass/styles.scss */
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
   background-color: rgba(0, 0, 0, 0.5);
 }

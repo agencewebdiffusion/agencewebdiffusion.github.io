@@ -1,4 +1,4 @@
-$body-bg: #000;
+$body-bg: #333;
 $text-color: #fff;
 $link-color: rgba(255,255,255,.65);
 $link-hover-color: $text-color;
@@ -51,6 +51,11 @@ html, body {
   h1, h2, h3 {
     margin: 1.619em auto;
     text-align: center;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
   }
 
 }
