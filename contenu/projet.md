@@ -2,8 +2,11 @@
 title: Les projets de webdiffusion
 layout: pages
 ---
-# Les Projets
 <div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
+![](http://placehold.it/960x540&text=Diagramme+de+projet)
+
+# Les Projets
+
 Toute entreprise ou organisation possède des particularités uniques. Ces particularités provoquent l’apparition de problèmes de nature unique, et il devient impossible d’appliquer des solutions préconçues, qui abondent sur le marché, pour les résoudre. Il faut, pour ainsi dire, appliquer une solution sur mesure, et avant d’appliquer cette solution, prendre les bonnes mesures.
 
 Agence Webdiffusion développe ses propres équipements et logiciels pour exploiter les potentiels de la webdiffusion et les talents de ses partenaires à leur maximum. Nos compétences de développement sont disponibles à nos clients dans le cadre d’un projet.
@@ -22,14 +25,20 @@ Lorsqu’on lance un projet à partir d’un objectif fondé sur une hypothèse 
 
 ### Le projet d’intégration
 
+![](http://placehold.it/960x540&text=Diagramme+integration)
+
 Le projet d’intégration consiste à valider l’utilisation d’équipements et de logiciels dans un contexte de production. Par exemple, l’achat de plusieurs caméras et d’un ordinateur d’encodage vont-ils fournir un système suffisamment performant pour la captation de votre prochain événement de conférence? Pour en être certain, il faut les *intégrer* avec un contenu de validation, et les calibrer en observant leur performance et en apportant les configurations nécessaires.
 
 Le projet d’intégration est essentiel lorsque l’élimination des risques est la priorité. Effectuer des tests dans l’environnement de travail, avec ses particularités, est l’unique façon d’avoir la paix d’esprit que le système fonctionnera tel que souhaité.
 
 Lorsque nous travaillons pour votre projet d’intégration, nos équipes se déplacent sur le terrain de production, soit le lieu de tournage ou vos bureaux, pour mettre en place les outils et faire des tests d’utilisations. De cette façon, votre installation logicielle et technique est assurée de fonctionner lorsque la production se mettra en marche.
-!(img)[]
+
+
+![Un projet validé par une équipe d'intégration](/images/integration-d-equipement.jpg)
 
 ### Le projet de développement
+
+![](http://placehold.it/960x540&text=Screenflow+code)
 
 Un projet de développement consiste à construire des solutions technologiques uniques à une situation ou un problème. Si les technologies disponibles sur le marché sont insuffisantes, inélégantes, trop coûteuses ou trop complexes, le développement d’une solution sur mesure peut être l’option préférable.
 
@@ -38,17 +47,18 @@ Dans le contexte de la webdiffusion, une solution développée sur mesure prend 
 Le développement d’une solution se fait dans un laboratoire (ou un simple bureau), dans des conditions où il est simple de contrôler et résoudre chaque variable du système indépendamment des autres. Le projet avance, d’une tentative à la suivante, en assimilant les résultats des échecs pour finalement arriver à la solution complète.
 
 Lorsque les équipements et outils nécessaires à une production sont inexistants, nos équipes sont en mesure de les assembler pour vous. Nous utilisons des plateformes de développement nuagiques et des logiciels open source pour vous assurer le contrôle total de la solution qui sera développée. Le produit sera une plateforme logicielle et audiovisuelle sur mesure pour répondre à votre problématique particulière.
-!(img)[]
 
 ### Le projet de conception
+
+![](http://placehold.it/960x540&text=Diagramme+conception)
 
 Concevoir une solution consiste à traduire une liste d’objectifs et de problèmes en modèles applicables au développement, c’est-à-dire en faire le dessin. La conception (aussi appelé design) cherche à explorer un grand nombre de modèles rapidement et les valider contre votre problématique pour ainsi éviter des projets de développement superflus ou trop complexes. Le produit de la conception est ainsi un facteur clé d’un projet de développement. Une solution mal conçue, si bien développée soit-elle, n’arrivera pas à résoudre le véritable problème. Un projet de développement sans concept risque de s’arrêter brusquement face à l’ambigüité de la solution.
 
 Les outils de conceptions sont multiples et se vantent tous d’être la raison du génie créateur. Dans le cadre de la webdiffusion, la conception se fait à l’aide de simples « wireframes » et schémas, démontrant quelles parties sont incluses dans le système et quels rôles elles doivent jouer. Le plus simple l’outil, le plus simple le projet, et si un concept peut être exprimé sur une simple feuille de papier, tant mieux. On distingue un projet très simple d’un projet complexe au nombre de concepts qu’il faut produire avant d’arrêter sur la bonne piste de solution. Pour cette raison, autant il peut être possible de concevoir une solution immédiatement après avoir clarifié le problème, autant il faut passer des jours à se creuser les méninges pour le résoudre.
 
-!(img)[]
-
 ### Le projet de recherche
+
+![](http://placehold.it/960x540&text=Diagramme+recherche)
 
 Si l’ensemble des solutions requises par votre problématique est difficile à concevoir, c’est que la problématique elle-même est incomprise. Dans ce cas, la solution la plus économique au problème est d’aller chercher plus d’information.
 
@@ -63,9 +73,9 @@ Il existe différents types de recherche dans le cadre d'un projet, à détermin
 - la recherche concurrentielle répond aux questions qui concernent les alternatives disponibles aux utilisateurs. Comment atteignent-ils leurs buts en l’absence de la solution proposée? Comment font-ils pour résoudre leurs problèmes? Un test d’utilisation sur les solutions concurrentes peut nous informer sur les opportunités à ne pas manquer et les erreurs à éviter dans notre nouvelle solution.
 - la recherche évaluative répond aux questions qui concernent les solutions déjà en place. Atteignent-elles réellement les objectifs à remplir? En plus des méthodes analytiques (statistiques de visites, tests divisés), l’observation des utilisateurs dans leur utilisation permet de valider si la solution est performante et d’identifier où se trouvent toujours les lacunes à combler. On peut de cette façon prioriser les améliorations à apporter de la plus bénéfique à la moindre, et améliorer la performance de la solution à un plus grand rythme.
 
-!(img)[]
-
 ### Que coûte mon projet de webdiffusion?
+
+![](http://placehold.it/960x540&text=Diagramme+waterfall+agile)
 
 Les facteurs de coûts dans un projet sont beaucoup plus variables que dans une production, qui normalement comporte des échéanciers cadrés sur lesquels il est suffisant d’attribuer les ressources appropriées pour en estimer les coûts. Un projet, dans son sens le plus général, est la poursuite d’un objectif dans une démarche incertaine. Il peut s’avérer être très facile à atteindre, autant qu’il peut être très complexe.
 
@@ -85,7 +95,7 @@ La gestion de projet est l’équilibrage de contraintes. Étant donné un éch�
 
 La contrainte principale dépend de la nature de l’organisation. Une entreprise en démarrage a des ressources fixes et un budget élastique, et peut facilement réduire l’envergure de son projet pour atteindre des échéanciers très courts. Une association ou organisme public se doivent par contre d'être très rigoureux avec les budgets, quitte à réduire l’envergure du travail.
 
-(Image triangle de projet)
+![](http://placehold.it/960x540&text=Diagramme+gestion+de+projet)
 
 Bien connaître ses contraintes principales est essentiel puisque, dans un projet innovateur, l’erreur est inévitable. Il faut la contrôler et la réduire dans le cadre établi.
 
@@ -104,14 +114,16 @@ La démarche se déroule comme suit:
 - Notre équipe se met en action dans l’objectif d’avoir intégré la première opération de projet le plus rapidement, et vous offrir la certitude de production.
 - Le feedback d’intégration est rapporté au projet et les nouveaux items sont repriorisés.
 
-Vos budgets et échéanciers sont ainsi optimisés dans un cycle qui forme une boucle dans le temps et limite l’envergure d’une opération individuelle.
+Vos budgets et échéanciers sont ainsi optimisés dans un cycle qui forme une boucle dans le temps et limite l’envergure d’une opération individuelle. <a id="thematisation"/>
 
 ### Le projet de thématisation
+
+![](http://placehold.it/960x540&text=Collage+theming)
 
 Le design graphique est un type de projet subtil. Il affecte, grâce aux propriétés globales du langage CSS pour le web, tous les aspects d’un site web simultanément. Le design graphique est donc très fragile au changement de forme d’un site web.
 
 Il est préférable que tout le contenu, ou un modèle approximatif du contenu très précis, soit en place avant d’en faire le design graphique. En utilisant la plateforme Drupal Webdiffusion, nous pouvons, avant même d’ajouter un graphiste au projet, intégrer tous les contenus et mettre en place les interactions de l’événement de webdiffusion. Le graphiste pourra ainsi se baser sur une trame précise et des contraintes stables pour créer son thème, avec des méthodes efficaces de propagation graphique.
 
-(Tableau de workflow de thématisation)
+![](http://placehold.it/960x540&text=tableau+workflow+thematisation)
 
 Si le projet a un échéancier strict, la démarche de conception graphique peut se faire en amont en suivant une technique nommée [Style Tiles](http://styletil.es). Il s’agit de produire des éléments graphiques sans les appliquer à du contenu, seulement de valider s’il fonctionne bien ensemble et représente bien la marque de l’événement. Les Style Tiles sélectionnés sont finalement intégrés rapidement au contenu final par le graphiste en dernière étape.
