@@ -6,7 +6,7 @@ layout: pages
 
 <div class="waypoint-bg plain"  style="background-color: #005EAD"></div>
 
-![](http://placehold.it/960x540&text=collage+plateformes)
+<!--![](http://placehold.it/960x540&text=collage+plateformes)-->
 
 ### À quoi sert une plateforme de diffusion?
 
@@ -22,7 +22,7 @@ L’alternative que nous avons choisie est le logiciel Drupal, un concurrent à 
 
 Une fois votre site lancé à la phase départ de votre webdiffusion, vous avez l’accès direct aux contenus, modifiables par un éditeur visuel *wysiwyg* (terme anglais signifiant "What you see is what you get"), aux comptes de vos utilisateurs et aux chaînes.
 
-![](http://placehold.it/960x540&text=Screenflow+administration)
+<!--![](http://placehold.it/960x540&text=Screenflow+administration)-->
 
 Comme notre plateforme est hébergée sur le système d’hébergement Aegir pour Drupal, le lancement d’un nouveau site est une affaire de quelques minutes. Une dizaine de minutes de plus pour préparer les chaînes et votre webdiffusion est prête à être annoncée à vos invités et au grand public.
 
@@ -32,13 +32,14 @@ La maintenance de votre site est prise en charge automatiquement par notre syst�
 
 Quoique le logiciel soit facile à utiliser et déjà intégré pour la diffusion en direct, produire un site de webdiffusion est une tâche d’ampleur proportionelle à celle de l’événement. Plus l’événement est ambitieux, plus les attentes des visiteurs envers les informations descriptives de l’événement sont élevées. À ça s’ajoute une thématisation graphique qui peut s’avérer aussi simple que l’insertion de quelques logos et couleurs, ou aller jusqu’à un branding graphique total par le commanditaire principal de l’événement. En général, le moins de transformations à faire à l’interface, le plus facile le projet de thématisation s’avérera.
 
-- [En lire plus sur le projet de thématisation avec Drupal Webdiffusion](projet.html)
+- [Lire plus sur le projet de thématisation avec Drupal Webdiffusion](projet.html#thematisation)
 
 L’administration des contenus avant, pendant et après l’événement peut être assurée par un membre de l’équipe de production (en général, le coordonnateur de la production) ou un responsable de votre organisation bien informé sur le déroulement de l’événement.
 
 Nos techniciens ont déjà l’expérience d’utiliser cette plateforme et n’ont pas de formation ou d’entraînement à faire. Ils assurent la distribution des chaînes de diffusion en direct et de rediffusion par leurs propres accès au site de webdiffusion.
 
 ![Notre producteur de webdiffusion à l'oeuvre dans la plateforme de diffusion](/images/producteur-a-l-oeuvre.jpg)
+*Notre producteur de webdiffusion à l'oeuvre dans la plateforme de diffusion*
 
 ### Peut-on exporter les questions et formulaires d'appréciation de la webdiffusion?
 
@@ -48,7 +49,7 @@ Pour résoudre ce problème avec le plus de souplesse possible, nous avons inté
 
 Les formulaires sont de plus en mesure d’émettre leur réponse par courriel, et de vous informer instantanément d’une question avant ou au cours d’une webdiffusion. C’est un moyen facile de créer un sentiment de participation avec les visiteurs.
 
-![](http://placehold.it/960x540&text=Screenflow+formulaires)
+<!--![](http://placehold.it/960x540&text=Screenflow+formulaires)-->
 
 ### Comment peut-on contrôler qui a accès à la webdiffusion? Quels sont les modèles de droits d'accès disponibles? Sont-ils compliqués à gérer?
 
@@ -58,7 +59,7 @@ C’est à ce niveau que l’utilisation de Drupal offre la plus grande soupless
 
 Vous pouvez, par exemple, récolter les informations de contact personnelles ou professionnelles de chaque visiteur au moment de leur donner accès à la webdiffusion, et ensuite croiser cette information avec les données de formulaire de la webdiffusion ou bien vos bases de données. Vous pouvez aussi créer des groupes d’utilisateurs et leur vendre des abonnements par votre équipe de vente (ils pourront directement placer les utilisateurs dans leurs groupes).
 
-![](http://placehold.it/960x540&text=Screenflow+drois+acces)
+<!--![](http://placehold.it/960x540&text=Screenflow+drois+acces)-->
 
 Finalement, et non moindre, Drupal possède une suite complète de modules de vente en ligne libre et gratuite, qui s'intègre simplement à n’importe quel modèle de webdiffusion pour transformer votre événement ou votre chaîne en générateur de revenu pour votre organisation.
 
@@ -70,7 +71,7 @@ Le contenu vidéo a une valeur qui déprécie à un rythme relatif à sa pertine
 
 En général, le coût de la rediffusion fait parti du forfait de diffusion en direct, puisque nous utilisons le réseau de distribution de contenu nuagique le plus efficace, Amazon Cloudfront, pour distribuer le contenu à grande échelle.
 
-![](http://placehold.it/960x540&text=Screenflow+chaine+rediffusion)
+<!--![](http://placehold.it/960x540&text=Screenflow+chaine+rediffusion)-->
 
 ### Mon site de webdiffusion peut-il servir à la promotion de mon événement? Quels sont les éléments de promotion essentiels?
 
@@ -82,7 +83,7 @@ Pour monter cette campagne, il existe plusieurs canaux possibles. Une infolettre
 
 Notre solution à ce problème est d’intégrer la campagne de promotion à l’intérieur du site de webdiffusion. Il est simple non seulement de présenter de l’information au sujet du contenu de la webdiffusion (qui sont les présentateurs, les commanditaires, les faits saillants, les horaires, etc.), mais aussi d’intégrer cette information au contenu de rediffusion, de créer des pages d’inscription qui récolte des informations importantes sur les visiteurs intéressés pour leur envoyer des rappels la veille de l’événement, ou tout autre contenu ou démarche web qui contribue à la promotion de votre webdiffusion.
 
-![](http://placehold.it/960x540&text=Screenflow+campagne)
+<!--![](http://placehold.it/960x540&text=Screenflow+campagne)-->
 
 ### Comment ajouter des éléments d'interaction à ma diffusion en direct? Comment récolter des commentaires? Des formulaires d'appréciation? Un hashtag Twitter?
 
@@ -90,11 +91,11 @@ Une webdiffusion se distingue d’un broadcast par ses volets interactifs. Les v
 
 Que souhaite-t-on faire lors d’un événement en salle? On souhaite poser nos questions aux conférenciers, ou converser avec nos voisins sur les sujets en cours. Cette forme de participation retrouve son penchant web par la conversation Twitter, très simple à intégrer à un site de webdiffusion, ou bien un fil de commentaires style « blogue ». Un formulaire pour envoyer instantanément et anonymement une question au conférencier peut être intégré à la page de diffusion en direct.
 
-![](http://placehold.it/960x540&text=Screenflow+formulaire)
+<!--![](http://placehold.it/960x540&text=Screenflow+formulaire)-->
 
 Les conférenciers souhaitent parfois faire participer l’auditoire avec des activités saugrenues. Dans un tel cas, il faut aller jusqu’à développer un widget d’interaction sur mesure, dans le cadre de votre projet de webdiffusion
 
-- [En lire plus sur le développement de modules dans un projet de webdiffusion](projet.html)
+- [Lire plus sur le développement de modules dans un projet de webdiffusion](projet.html)
 
 ### Mes utilisateurs réussiront-ils à se connecter? Peut-on leur offrir un recours de plus si leur système n'est pas compatible? Comment m'assurer que mon auditoire ne manquera pas le moment de la diffusion?
 
@@ -103,12 +104,13 @@ La ponctualité d’un événement de webdiffusion en direct crée un stress pot
 La solution idéale à ce problème est l’utilisation d’une technologie universelle qui fonctionne immédiatement sur tous les appareils. Malheureusement, l’industrie informatique n’est pas arrivée à cette harmonie, et plusieurs technologies concurrentes existent pour diffuser un flux vidéo en direct. La deuxième meilleure solution est d’utiliser les technologies les plus répandues, c’est-à-dire le plugin Flash et la diffusion HLS pour iPhone et iPad.
 
 ![La diffusion sur iPad est de plus en plus importante en 2014](/images/diffusion-sur-ipad-groupe.jpg)
+*La diffusion sur iPad est de plus en plus importante en 2014*
 
 Le visiteur doit donc valider que son appareil est configuré pour l’utilisation de ces technologies, et s’il ne l’est pas, les installer, les configurer, ou même pire, ouvrir un billet avec le service informatique de leur organisation.
 
 Pour éliminer au mieux possible les douleurs de cette démarche, nous avons créé pour la plateforme Drupal Webdiffusion une page d'assistance technique qui génère une batterie de tests interactifs avec les solutions pertinentes, qui est disponible dès le début de la campagne de promotion de l’événement. Les visiteurs sont ainsi avisés à l’avance des requis techniques et peuvent choisir sur quel appareil ils participeront au moment de la diffusion en direct en toute confiance.
 
-![](http://placehold.it/960x540&text=Screenflow+page+test)
+<!--![](http://placehold.it/960x540&text=Screenflow+page+test)-->
 
 Malgré tout, certains utilisateurs éprouvent des difficultés d’accès lors de l’événement en direct. Le stress de perdre le début du contenu s’ajoute au stress d’utiliser une nouvelle technologie. Nous recommandons, lorsque les moyens le permettent, d’ajouter une ligne d'assistance technique téléphonique avec un technicien expérimenté à la démarche d’aide du site de webdiffusion.
 
@@ -158,6 +160,7 @@ De plus en plus de visiteurs du web y accèdent par des ordinateurs mobiles, tel
 
 Il est devenu pratiquement impossible de prédire dans quel contexte un site web sera visité, et donc inutile d’en faire la conception et d’en définir le contenu pour un seul appareil. Les plateformes héritées d’avant la révolution mobile ont de plus en plus de difficultés à se contorsionner dans les formats que leurs visiteurs s’attendent à obtenir, prisonnier des réalités qu’ils tenaient pour acquises.
 
-![La diffusion sur iPad se consomme dans des contexte variés](/images/diffusion-sur-ipad.jpg)
+![La diffusion sur iPad se consomme dans des contextes variés](/images/diffusion-sur-ipad.jpg)
+*La diffusion sur iPad se consomme dans des contextes variés*
 
 Pour éviter d’avoir à nager contre la tendance, la plateforme Drupal Webdiffusion nage avec elle, en adoptant l’approche du *[mobile-first responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design)*, c’est à dire de créer l’expérience du site pour l’utilisateur mobile en premier, et de la bonifier détail par détail lorsque le contexte de visite permet une meilleure exploitation du contenu. Le résultat est une webdiffusion fondamentalement multiplateforme, qui se consomme autant sur son divan qu’à son bureau ou au café du coin, pour vous permettre de rejoindre le plus grand auditoire possible dans la mesure de leurs attentes, sans contraintes techniques ou technologiques.

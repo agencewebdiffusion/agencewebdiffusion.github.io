@@ -3,7 +3,7 @@ title: Les projets de webdiffusion
 layout: pages
 ---
 <div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
-![](http://placehold.it/960x540&text=Diagramme+de+projet)
+<!--![](http://placehold.it/960x540&text=Diagramme+de+projet)-->
 
 # Les Projets
 
@@ -17,7 +17,7 @@ Le résultat d’un projet peut prendre n’importe quelle forme, par exemple:
 - un système d’enregistrement de cours et de diffusion aux étudiants automatique,
 - un système de contenu-marketing qui explique un produit par des capsules vidéos intégrées à une application web mobile pour les conseillers de vente,
 - une extension modulaire de la plateforme Drupal Webdiffusion qui ajoute une nouvelle fonctionnalité,
-- etc.<a id="demarche" />
+- etc.<a id="demarche"></a>
 
 Il existe dans le domaine du web quatre catégories de projets qui se succèdent pour atteindre un objectif établi au départ, ou pour résoudre un problème particulier.
 
@@ -25,7 +25,7 @@ Lorsqu’on lance un projet à partir d’un objectif fondé sur une hypothèse 
 
 ### Le projet d’intégration
 
-![](http://placehold.it/960x540&text=Diagramme+integration)
+<!--![](http://placehold.it/960x540&text=Diagramme+integration)-->
 
 Le projet d’intégration consiste à valider l’utilisation d’équipements et de logiciels dans un contexte de production. Par exemple, l’achat de plusieurs caméras et d’un ordinateur d’encodage vont-ils fournir un système suffisamment performant pour la captation de votre prochain événement de conférence? Pour en être certain, il faut les *intégrer* avec un contenu de validation, et les calibrer en observant leur performance et en apportant les configurations nécessaires.
 
@@ -35,10 +35,11 @@ Lorsque nous travaillons pour votre projet d’intégration, nos équipes se dé
 
 
 ![Un projet validé par une équipe d'intégration](/images/integration-d-equipement.jpg)
+*Un projet validé par une équipe d'intégration*
 
 ### Le projet de développement
 
-![](http://placehold.it/960x540&text=Screenflow+code)
+<!--![](http://placehold.it/960x540&text=Screenflow+code)-->
 
 Un projet de développement consiste à construire des solutions technologiques uniques à une situation ou un problème. Si les technologies disponibles sur le marché sont insuffisantes, inélégantes, trop coûteuses ou trop complexes, le développement d’une solution sur mesure peut être l’option préférable.
 
@@ -50,7 +51,7 @@ Lorsque les équipements et outils nécessaires à une production sont inexistan
 
 ### Le projet de conception
 
-![](http://placehold.it/960x540&text=Diagramme+conception)
+<!--![](http://placehold.it/960x540&text=Diagramme+conception)-->
 
 Concevoir une solution consiste à traduire une liste d’objectifs et de problèmes en modèles applicables au développement, c’est-à-dire en faire le dessin. La conception (aussi appelé design) cherche à explorer un grand nombre de modèles rapidement et les valider contre votre problématique pour ainsi éviter des projets de développement superflus ou trop complexes. Le produit de la conception est ainsi un facteur clé d’un projet de développement. Une solution mal conçue, si bien développée soit-elle, n’arrivera pas à résoudre le véritable problème. Un projet de développement sans concept risque de s’arrêter brusquement face à l’ambigüité de la solution.
 
@@ -58,7 +59,7 @@ Les outils de conceptions sont multiples et se vantent tous d’être la raison 
 
 ### Le projet de recherche
 
-![](http://placehold.it/960x540&text=Diagramme+recherche)
+<!--![](http://placehold.it/960x540&text=Diagramme+recherche)-->
 
 Si l’ensemble des solutions requises par votre problématique est difficile à concevoir, c’est que la problématique elle-même est incomprise. Dans ce cas, la solution la plus économique au problème est d’aller chercher plus d’information.
 
@@ -75,7 +76,7 @@ Il existe différents types de recherche dans le cadre d'un projet, à détermin
 
 ### Que coûte mon projet de webdiffusion?
 
-![](http://placehold.it/960x540&text=Diagramme+waterfall+agile)
+<!--![](http://placehold.it/960x540&text=Diagramme+waterfall+agile)-->
 
 Les facteurs de coûts dans un projet sont beaucoup plus variables que dans une production, qui normalement comporte des échéanciers cadrés sur lesquels il est suffisant d’attribuer les ressources appropriées pour en estimer les coûts. Un projet, dans son sens le plus général, est la poursuite d’un objectif dans une démarche incertaine. Il peut s’avérer être très facile à atteindre, autant qu’il peut être très complexe.
 
@@ -95,7 +96,7 @@ La gestion de projet est l’équilibrage de contraintes. Étant donné un éch�
 
 La contrainte principale dépend de la nature de l’organisation. Une entreprise en démarrage a des ressources fixes et un budget élastique, et peut facilement réduire l’envergure de son projet pour atteindre des échéanciers très courts. Une association ou organisme public se doivent par contre d'être très rigoureux avec les budgets, quitte à réduire l’envergure du travail.
 
-![](http://placehold.it/960x540&text=Diagramme+gestion+de+projet)
+<!--![](http://placehold.it/960x540&text=Diagramme+gestion+de+projet)-->
 
 Bien connaître ses contraintes principales est essentiel puisque, dans un projet innovateur, l’erreur est inévitable. Il faut la contrôler et la réduire dans le cadre établi.
 
@@ -118,12 +119,12 @@ Vos budgets et échéanciers sont ainsi optimisés dans un cycle qui forme une b
 
 ### Le projet de thématisation
 
-![](http://placehold.it/960x540&text=Collage+theming)
+<!--![](http://placehold.it/960x540&text=Collage+theming)-->
 
 Le design graphique est un type de projet subtil. Il affecte, grâce aux propriétés globales du langage CSS pour le web, tous les aspects d’un site web simultanément. Le design graphique est donc très fragile au changement de forme d’un site web.
 
 Il est préférable que tout le contenu, ou un modèle approximatif du contenu très précis, soit en place avant d’en faire le design graphique. En utilisant la plateforme Drupal Webdiffusion, nous pouvons, avant même d’ajouter un graphiste au projet, intégrer tous les contenus et mettre en place les interactions de l’événement de webdiffusion. Le graphiste pourra ainsi se baser sur une trame précise et des contraintes stables pour créer son thème, avec des méthodes efficaces de propagation graphique.
 
-![](http://placehold.it/960x540&text=tableau+workflow+thematisation)
+<!--![](http://placehold.it/960x540&text=tableau+workflow+thematisation)-->
 
 Si le projet a un échéancier strict, la démarche de conception graphique peut se faire en amont en suivant une technique nommée [Style Tiles](http://styletil.es). Il s’agit de produire des éléments graphiques sans les appliquer à du contenu, seulement de valider s’il fonctionne bien ensemble et représente bien la marque de l’événement. Les Style Tiles sélectionnés sont finalement intégrés rapidement au contenu final par le graphiste en dernière étape.

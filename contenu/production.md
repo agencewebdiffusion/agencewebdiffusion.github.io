@@ -25,7 +25,8 @@ Réunir et intégrer tous ces éléments simultanément pour un événement en d
 
 Il existe une échelle très vaste de types de productions, généralement identifiables par le nombre de visiteurs connectés, du plus petit webinaire au grand rassemblement présidentiel. Les coûts de la webdiffusion varient en conséquence. Alors qu’il est maintenant possible de faire une webdiffusion de politique publique en haute qualité à partir de 2500$, les webdiffusions avec modèle de revenu se situent à des budgets de 7000$ et plus par journée. Les grands événements de webdiffusion qui se déroulent sur plusieurs jours, et dont l’envergure atteint le monde entier, atteignent des budgets de 70000$ et même plus. Il faut bien cibler son type de visiteurs et les participants en vedette de la webdiffusion lorsqu’on choisit le type de webdiffusion à produire.
 
-![Une production grande envergure nécesite une équipe de grande envergure](/images/production-grande-envergure.jpg)
+![Une production grande envergure nécessite une équipe de grande envergure](/images/production-grande-envergure.jpg)
+*Une production grande envergure nécessite une équipe de grande envergure*
 
 <!--
 - Voir un exemple d’une production de politique communautaire
@@ -38,6 +39,7 @@ Agence Webdiffusion est spécialiste de l’organisation et la gestion des produ
 Si vous souhaitez réaliser une webdiffusion ou une série de webdiffusions plus économique, vous avez la possibilité de la produire vous-même. Assurez-vous d’avoir les bons équipements et la bonne installation. Nous pouvons vous épauler grâce à notre service de support pour vous éviter des ennuis sournois lors de vos premières tentatives.
 
 ![Une production d'entrevue demande une équipe beaucoup plus simple](/images/production-entrevue.jpg)
+*Une production d'entrevue demande une équipe beaucoup plus simple*
 
 <!--
 - Lire plus au sujet de notre service de support à la webdiffusion
@@ -55,17 +57,18 @@ Agence Webdiffusion utilise des technologies standard compatibles avec les plate
 
 Dans la webdiffusion traditionnelle, la qualité de la transmission ne permettait pas de communiquer des éléments graphiques détaillés par la vidéo. La solution de rechange consistait à présenter une séquence de diapositives PowerPoint côte à côte au présentateur, obligeant le client à faire une synchronisation au cours de la diffusion. Certaines plateformes de webdiffusion se basent toujours sur ce modèle en 2014, même si la bande passante et la technologie d’encodage permettent maintenant la haute définition vidéo.
 
-![](http://placehold.it/960x540&text=Plateforme+powerpoint+separe)
+<!--![](http://placehold.it/960x540&text=Plateforme+powerpoint+separe)-->
 
 Nous avons choisi de laisser toute la place au présentateur dans notre plateforme, et d’intégrer les supports visuels, qui peuvent maintenant inclure autant les diapositives que la vidéo préproduite ou même un téléconférencier par Skype, par un aiguillage en temps réel de notre réalisateur ou opérateur. Le contenu devient ainsi beaucoup plus dynamique et l’effort imposé au visiteur et au client moindre. La webdiffusion en devient plus agréable pour tout le monde.
 
-![](http://placehold.it/960x540&text=Screenflow+compositing)
+<!--![](http://placehold.it/960x540&text=Screenflow+compositing)-->
 
 - Avez-vous une intégration visuelle complexe en tête? [Contactez-nous pour une réponse rapide sur sa faisabilité.](#footer)
 
 ### Comment faire une webdiffusion qui se rapproche d'une émission télé?
 
 ![Un plateau de webdiffusion](/images/plateau-de-webdiffusion.jpg)
+*Un plateau de webdiffusion*
 
 La technologie est un complément au talent professionnel, et non un substitut. Pour exploiter au maximum le potentiel d’un événement payant ou de grande envergure, il faut avoir recours à une équipe de professionnels d’expériences qui s’occuperont de la direction artistique de la production, dont un réalisateur. Nous avons à plusieurs reprises intégré un réalisateur d’événement en direct à nos productions, et même monté une équipe de réalisation pour les grandes productions. Le résultat sur le produit final est remarquable, et se perçoit par l’émotion des prises de vues, la précision des changements de plans et la pertinence des graphiques superposés à l’image.
 
@@ -95,6 +98,6 @@ Même pour ceux ne bénéficiant pas d'une connexion internet de haut niveau, la
 
 ### Une alternative pour présenter de l'information visuellement complexe en webdiffusion: la présentation différée tournée sur fond vert.
 
-![](http://placehold.it/960x540&text=Tournage+fond+vert)
+<!--![](http://placehold.it/960x540&text=Tournage+fond+vert)-->
 
 Si les participants de votre événement sont un peu timides ou ont une présentation très complexe à faire, un peu de magie webdiffusionelle peut leur venir en aide. Un tournage en « fond vert », combiné avec un mode diffusion en différé ou mixte (avec un segment en direct), permet de réduire la pression d’un événement intégralement en direct, et aussi d’exploiter les multiples possibilités techniques d’un tournage sur fond vert, telle l’intégration du présentateur à l’intérieur même de son support visuel (pensez à monsieur ou madame météo sur sa carte).
