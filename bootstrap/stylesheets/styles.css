@@ -8042,7 +8042,34 @@ html, body {
   font-family: Raleway, sans-serif;
 }
 
-/* line 30, ../sass/styles.scss */
+@media screen and (max-width: 767px) {
+  /* line 32, ../sass/styles.scss */
+  body, .btn {
+    font-size: 14.4px;
+    line-height: 1.619;
+  }
+
+  /* line 36, ../sass/styles.scss */
+  h1 {
+    font-size: 36.8px;
+  }
+
+  /* line 39, ../sass/styles.scss */
+  h2 {
+    font-size: 30.4px;
+  }
+
+  /* line 42, ../sass/styles.scss */
+  h3 {
+    font-size: 24.8px;
+  }
+
+  /* line 45, ../sass/styles.scss */
+  h4 {
+    font-size: 18.4px;
+  }
+}
+/* line 50, ../sass/styles.scss */
 #bg-container, #bg-container div {
   height: 100%;
   width: 100%;
@@ -8057,33 +8084,33 @@ html, body {
   transition: opacity 2.5s ease-in-out;
 }
 
-/* line 43, ../sass/styles.scss */
+/* line 63, ../sass/styles.scss */
 #bg-container.loaded {
   opacity: 1;
 }
 
-/* line 46, ../sass/styles.scss */
+/* line 66, ../sass/styles.scss */
 #bg-container .show {
   opacity: 1;
 }
 
-/* line 51, ../sass/styles.scss */
+/* line 71, ../sass/styles.scss */
 .content-column h1, .content-column h2, .content-column h3 {
   margin: 1.619em auto;
   text-align: center;
 }
-/* line 56, ../sass/styles.scss */
+/* line 76, ../sass/styles.scss */
 .content-column img {
   max-width: 100%;
   height: auto;
 }
 
-/* line 63, ../sass/styles.scss */
+/* line 83, ../sass/styles.scss */
 section {
   padding-top: 15%;
 }
 
-/* line 67, ../sass/styles.scss */
+/* line 87, ../sass/styles.scss */
 #top-navbar {
   background: black;
   background: rgba(0, 0, 0, 0.65);
@@ -8091,29 +8118,29 @@ section {
   padding-bottom: 9px;
 }
 
-/* line 74, ../sass/styles.scss */
+/* line 94, ../sass/styles.scss */
 #top-navbar .btn {
   margin-left: 15px;
   margin-right: 15px;
 }
 
-/* line 79, ../sass/styles.scss */
+/* line 99, ../sass/styles.scss */
 #footer {
   padding-top: 50px;
 }
 
-/* line 83, ../sass/styles.scss */
+/* line 103, ../sass/styles.scss */
 .icon-bar {
   background: white;
 }
 
-/* line 86, ../sass/styles.scss */
+/* line 106, ../sass/styles.scss */
 .call-to-action {
   padding-top: 5%;
   padding-bottom: 5%;
 }
 
-/* line 92, ../sass/styles.scss */
+/* line 112, ../sass/styles.scss */
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
   background-color: rgba(0, 0, 0, 0.5);
 }

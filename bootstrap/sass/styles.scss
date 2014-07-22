@@ -27,6 +27,26 @@ html, body {
   display: block;
   font-family: Raleway, sans-serif;
 }
+
+@media screen and (max-width: $screen-xs-max) {
+  body, .btn {
+    font-size: $font-size-base * 0.8;
+    line-height: 1.619;
+  }
+  h1 {
+    font-size: $font-size-h1 * 0.8;
+  }
+  h2 {
+    font-size: $font-size-h2 * 0.8;
+  }
+  h3 {
+    font-size: $font-size-h3 * 0.8;
+  }
+  h4 {
+    font-size: $font-size-h4 * 0.8;
+  }
+}
+
 #bg-container, #bg-container div {
   height: 100%;
   width: 100%;
