@@ -87,7 +87,7 @@ Que se passe-t-il lorsque le projet comporte des innovations? Dans le cas de la 
 
 Pourquoi cet historique d’échec? Parce que la discussion entre les informaticiens et les gestionnaires ne se fait pas sur un terrain d’entente mutuelle. Les gestionnaires sont concernés par les échéanciers, les informaticiens par les résultats concluants. Que se passe-t-il lorsqu’un gestionnaire demande à un informaticien si un projet d’innovation se terminera à un échéancier fixe? La réponse est moins que scientifique - l’informaticien fait une comparaison émotive à un projet semblable qu’il a conclu dans le passé, dont la pertinence diminue plus le projet est innovateur, et diminue encore plus si le projet est long et que l’informaticien a peu d’expérience. Voir http://blog.hut8labs.com/no-deadlines-for-you.html pour plus détails sur cette problématique et une méthode efficace de planification informatique.
 
-Pour résoudre cette impasse, il faut une méthode de gestion de projet qui réduit les risques de toutes parts. Ces méthodes sont parfois appelées « agile », « scrum » ou autre, mais elles ont toutes certains points en commun: la décomposition d’opérations inconnues en plus petites opérations connues, ainsi que la participation active du client dans la sélection des priorités des opérations.
+Pour résoudre cette impasse, il faut une méthode de gestion de projet qui réduit les risques de toutes parts. Ces méthodes sont parfois appelées « agile », « scrum » ou autre, mais elles ont toutes certains points en commun: la décomposition d’opérations inconnues en plus petites opérations connues, ainsi que la participation active du client dans la sélection des priorités des opérations.<a id="demarche" />
 
 ### La gestion de projet
 
