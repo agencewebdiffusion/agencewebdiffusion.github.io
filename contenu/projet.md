@@ -17,7 +17,7 @@ Le résultat d’un projet peut prendre n’importe quelle forme, par exemple:
 - un système d’enregistrement de cours et de diffusion aux étudiants automatique,
 - un système de contenu-marketing qui explique un produit par des capsules vidéos intégrées à une application web mobile pour les conseillers de vente,
 - une extension modulaire de la plateforme Drupal Webdiffusion qui ajoute une nouvelle fonctionnalité,
-- etc.
+- etc.<a id="demarche" />
 
 Il existe dans le domaine du web quatre catégories de projets qui se succèdent pour atteindre un objectif établi au départ, ou pour résoudre un problème particulier.
 
@@ -87,7 +87,7 @@ Que se passe-t-il lorsque le projet comporte des innovations? Dans le cas de la 
 
 Pourquoi cet historique d’échec? Parce que la discussion entre les informaticiens et les gestionnaires ne se fait pas sur un terrain d’entente mutuelle. Les gestionnaires sont concernés par les échéanciers, les informaticiens par les résultats concluants. Que se passe-t-il lorsqu’un gestionnaire demande à un informaticien si un projet d’innovation se terminera à un échéancier fixe? La réponse est moins que scientifique - l’informaticien fait une comparaison émotive à un projet semblable qu’il a conclu dans le passé, dont la pertinence diminue plus le projet est innovateur, et diminue encore plus si le projet est long et que l’informaticien a peu d’expérience. Voir http://blog.hut8labs.com/no-deadlines-for-you.html pour plus détails sur cette problématique et une méthode efficace de planification informatique.
 
-Pour résoudre cette impasse, il faut une méthode de gestion de projet qui réduit les risques de toutes parts. Ces méthodes sont parfois appelées « agile », « scrum » ou autre, mais elles ont toutes certains points en commun: la décomposition d’opérations inconnues en plus petites opérations connues, ainsi que la participation active du client dans la sélection des priorités des opérations.<a id="demarche" />
+Pour résoudre cette impasse, il faut une méthode de gestion de projet qui réduit les risques de toutes parts. Ces méthodes sont parfois appelées « agile », « scrum » ou autre, mais elles ont toutes certains points en commun: la décomposition d’opérations inconnues en plus petites opérations connues, ainsi que la participation active du client dans la sélection des priorités des opérations.
 
 ### La gestion de projet
 
