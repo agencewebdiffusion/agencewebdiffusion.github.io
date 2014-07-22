@@ -1,2 +1,9 @@
 markdown: kramdown
 form_api_token: 4e2c21608745291eb6a41795f0446ad7
+navigation:
+ - title: Productions
+   url: /contenu/production.html
+ - title: Projets
+   url: /contenu/projet.html
+ - title: Plateforme
+   url: /contenu/plateforme.html

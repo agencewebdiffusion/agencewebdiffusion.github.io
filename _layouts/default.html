@@ -33,9 +33,15 @@
           <div class="collapse navbar-collapse" id="navbar-collapsible">
 
             <ul class="nav navbar-nav navbar-left">
-              <li><a href="/contenu/production.html">Productions</a></li>
-              <li><a href="/contenu/projet.html">Projets</a></li>
-              <li><a href="/contenu/plateforme.html">Plateforme</a></li>
+      {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% if page.url contains link.url %}
+            {% assign current = 'current' %}
+        {% endif %}
+        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+      {% endfor %}
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
