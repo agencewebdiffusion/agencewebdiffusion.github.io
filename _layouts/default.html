@@ -20,6 +20,7 @@
   </head>
   <body>
     <div id="bg-container"></div>
+    <span itemscope itemtype="http://schema.org/LocalBusiness">
     <header id="top-navbar" class="navbar navbar-trans navbar-fixed-top" role="navigation">
 <div class="container-fluid">
           <div class="navbar-header">
@@ -29,7 +30,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><img src="/logo_webdiffusion_final_blanc.png" style="height: 30px; width: auto;"></a>
+            <a class="navbar-brand" href="/"><img itemprop="image" src="/logo_webdiffusion_final_blanc.png" style="height: 30px; width: auto;"></a>
           </div>
           <div class="collapse navbar-collapse" id="navbar-collapsible">
 
@@ -61,7 +62,11 @@
           <p><em>Nous sommes toujours disponibles pour vous accompagner dans votre démarche de webdiffusion et aider le développement de la webdiffusion dans les organisations et les entreprises. Il nous fera plaisir de répondre à votre question par courriel, par téléphone, ou sur un forum public.</em></p>
         </div>
         <div class="col-md-4">
-          <p>Agence Webdiffusion est une entreprise de Montréal desservant le Québec et le Canada. </p>
+          <p><span itemprop="name">Agence Webdiffusion</span> est une entreprise de
+<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<span itemprop="addressLocality">Montréal</span> desservant le
+<span itemprop="addressRegion">Québec</span> et le
+<span itemprop="addressCountry">Canada</span></span>. </p>
         </div>
         </div>
         <div class="row">
@@ -69,12 +74,12 @@
         <div class="col-md-6">
         <h3><span class="glyphicon glyphicon-earphone"></span> Par téléphone</h3>
         <ul>
-          <li>Pour obtenir une réponse immédiate, téléphonez au <span class="glyphicon glyphicon-earphone"></span> 1-514-360-5798.
+          <li>Pour obtenir une réponse immédiate, téléphonez au <span class="glyphicon glyphicon-earphone"></span> <span itemprop="telephone">1-514-360-5798</span>.
           </li>
         </ul>
         <h3><span class="glyphicon glyphicon-envelope"></span> Par courriel</h3>
         <ul>
-          <li>Pour des questions sur la production de webdiffusion, contactez Claudia à <a href="mailto:claudia@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> claudia@agencewebdiffusion.com</a>. </li>
+          <li>Pour des questions sur la production de webdiffusion, contactez Claudia à <a href="mailto:claudia@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> <span itemprop="email">claudia@agencewebdiffusion.com</span></a>. </li>
           <li>Pour des questions sur la technique et la technologie de webdiffusion, contactez Daniel à <a href="mailto:daniel@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> daniel@agencewebdiffusion.com</a>. </li>
           <li>Pour des questions sur l'informatique et la stratégie web de la webdiffusion, contactez Mathieu à <a href="mailto:mathieu@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> mathieu@agencewebdiffusion.com</a></li>
         </ul>
@@ -117,7 +122,7 @@
         <p><a href="#">Retour au haut</a> - <a href="/">Retour à l'accueil</a></p>
       </div>
 
-    </footer>
+    </footer></span>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
