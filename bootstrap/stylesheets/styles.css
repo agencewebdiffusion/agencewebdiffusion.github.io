@@ -8112,7 +8112,7 @@ html, body {
 }
 
 /* line 88, ../sass/styles.scss */
-section {
+section, #footer {
   padding-top: 15%;
 }
 
@@ -8131,22 +8131,17 @@ section {
 }
 
 /* line 104, ../sass/styles.scss */
-#footer {
-  padding-top: 50px;
-}
-
-/* line 108, ../sass/styles.scss */
 .icon-bar {
   background: white;
 }
 
-/* line 111, ../sass/styles.scss */
+/* line 107, ../sass/styles.scss */
 .call-to-action {
   padding-top: 5%;
   padding-bottom: 5%;
 }
 
-/* line 117, ../sass/styles.scss */
+/* line 113, ../sass/styles.scss */
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
   background-color: rgba(0, 0, 0, 0.5);
 }
