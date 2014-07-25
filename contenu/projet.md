@@ -15,9 +15,11 @@ Le résultat d’un projet peut prendre n’importe quelle forme, par exemple:
 
 - un événement de webdiffusion à grande envergure comportant des risques ambigües,
 - un système d’enregistrement de cours et de diffusion aux étudiants automatique,
-- un système de contenu-marketing qui explique un produit par des capsules vidéos intégrées à une application web mobile pour les conseillers de vente,
+- un système de contenu-marketing qui explique un produit par des capsules vidéos intégrées à une application web mobile pour les conseillers de vente,<a id="demarche"></a>
 - une extension modulaire de la plateforme Drupal Webdiffusion qui ajoute une nouvelle fonctionnalité,
-- etc.<a id="demarche"></a>
+- etc.
+
+#### Les catégories de projets
 
 Il existe dans le domaine du web quatre catégories de projets qui se succèdent pour atteindre un objectif établi au départ, ou pour résoudre un problème particulier.
 
