@@ -123,7 +123,7 @@ Our workflow works like this:
 - Our team gets to work in order to integrate the highest priority story as soon as possible, ensuring its deployment to production.
 - Integration feedback returns to project managers and new stories and tasks are reprioritized.
 
-This way your budget and schedules are *optimized* in a decision cycle that constrains the scope of any individual story. <a id="thematisation"/>
+This way your budget and schedules are *optimized* in a decision cycle that constrains the scope of any individual story. <a id="theming"/>
 
 ### The Theming Project
 

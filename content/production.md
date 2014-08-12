@@ -9,6 +9,7 @@ language: en
 We call webcast production the process of capturing, encoding, transmitting, streaming and publishing live video content for the web.
 
 A complete webcast production needs all of the following components:
+
 1. One or more cameras
 2. A signal switching computer or dedicated video switching equipment
 3. A computer that encodes and transmits a video stream
