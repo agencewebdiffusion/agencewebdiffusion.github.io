@@ -1,9 +1,9 @@
 ---
-title: Webcasting Platforms
+title: Webcast Platforms
 layout: pages
 language: en
 ---
-# Webcasting Platforms
+# Webcast Platforms
 
 <div class="waypoint-bg plain"  style="background-color: #005EAD"></div>
 
