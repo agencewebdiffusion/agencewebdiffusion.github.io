@@ -32,7 +32,7 @@
     <div id="bg-container"></div>
     <span itemscope itemtype="http://schema.org/LocalBusiness">
     <header id="top-navbar" class="navbar navbar-trans navbar-fixed-top" role="navigation">
-<div class="container-fluid">
+      <div class="container-fluid">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapsible">
               <span class="sr-only">Toggle navigation</span>
@@ -46,19 +46,19 @@
 
             <ul class="nav navbar-nav navbar-left">
               {% if page.language != "en" %}
-              {% assign nav = site.navigation %}
+                {% assign nav = site.navigation %}
               {% else %}
-              {% assign nav = site.navigation-en %}
+                {% assign nav = site.navigation-en %}
               {% endif %}
-      {% for link in nav %}
-        {% assign current = nil %}
-        {% if page.url contains link.url %}
-            {% assign current = 'current' %}
-        {% endif %}
-        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-            <a href="{{ link.url }}">{{ link.title }}</a>
-        </li>
-      {% endfor %}
+              {% for link in nav %}
+                {% assign current = nil %}
+                {% if page.url contains link.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+              {% endfor %}
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
