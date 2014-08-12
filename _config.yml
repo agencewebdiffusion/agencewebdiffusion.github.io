@@ -7,3 +7,10 @@ navigation:
    url: /contenu/plateforme.html
  - title: Projets
    url: /contenu/projet.html
+navigation-en:
+ - title: Productions
+   url: /content/production.html
+ - title: Platform
+   url: /content/platform.html
+ - title: Projects
+   url: /content/project.html

@@ -1,6 +1,7 @@
 ---
 title: Webcasting projects
 layout: pages
+language: en
 ---
 <div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
 <!--![](http://placehold.it/960x540&text=Diagramme+de+projet)-->

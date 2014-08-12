@@ -40,12 +40,17 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><img itemprop="image" src="/logo_webdiffusion_final_blanc.png" style="height: 30px; width: auto;"></a>
+            <a class="navbar-brand" href="/{% if page.language == "en" %}content{% endif %}"><img itemprop="image" src="/logo_webdiffusion_final_blanc.png" style="height: 30px; width: auto;"></a>
           </div>
           <div class="collapse navbar-collapse" id="navbar-collapsible">
 
             <ul class="nav navbar-nav navbar-left">
-      {% for link in site.navigation %}
+              {% if page.language != "en" %}
+              {% assign nav = site.navigation %}
+              {% else %}
+              {% assign nav = site.navigation-en %}
+              {% endif %}
+      {% for link in nav %}
         {% assign current = nil %}
         {% if page.url contains link.url %}
             {% assign current = 'current' %}
@@ -57,19 +62,30 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="#footer" class="btn btn-default">Contactez-nous</a></li>
+              <li>
+              {% if page.language != "en" %}
+              <a href="/content">en</a>
+              {% else %}
+              <a href="/">fr</a>
+              {% endif %}
+              </li>
+              <li><a href="#footer" class="btn btn-default">
+                {% if page.language != "en" %}Contactez-nous{% else %}Contact Us{% endif %}
+              </a></li>
             </ul>
           </div>
 </div>
     </header>
 {{content}}
+{% if page.language != "en" %}
     <footer id="footer">
       <div class="waypoint-bg "  style="background-image: url(/images/bg-reponses.jpg)"></div>
       <div class="container">
           <h1>Obtenez plus de réponses à vos questions</h1>
         <div class="row">
         <div class="col-md-8">
-          <p><em>Nous sommes toujours disponibles pour vous accompagner dans votre démarche de webdiffusion et aider le développement de la webdiffusion dans les organisations et les entreprises. Il nous fera plaisir de répondre à votre question par courriel, par téléphone, ou sur un forum public.</em></p>
+          <p><em>Nous sommes toujours disponibles pour vous accompagner dans votre démarche de webdiffusion et aider le développement de la webdiffusion dans les organisations et les entreprises. Il nous fera plaisir de répondre à votre question par courriel, par téléphone, ou sur un forum public.
+          </em></p>
         </div>
         <div class="col-md-4">
           <p><span itemprop="name">Agence Webdiffusion</span> est une entreprise de
@@ -132,7 +148,82 @@
         <p><a href="#">Retour au haut</a> - <a href="/">Retour à l'accueil</a></p>
       </div>
 
-    </footer></span>
+    </footer>
+{% else %}
+    <footer id="footer">
+      <div class="waypoint-bg "  style="background-image: url(/images/bg-reponses.jpg)"></div>
+      <div class="container">
+          <h1>Get More Answers</h1>
+        <div class="row">
+        <div class="col-md-8">
+          <p><em>We are fully available to help you through your webcast planning and to guide your company or organisation in growing your content. We will be delighted to answer your questions by email, by phone or on social media.
+          </em></p>
+        </div>
+        <div class="col-md-4">
+          <p><span itemprop="name">Agence Webdiffusion</span> is a
+<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<span itemprop="addressLocality">Montréal</span> company offering services in
+<span itemprop="addressRegion">Québec</span> and
+<span itemprop="addressCountry">Canada</span></span>. </p>
+        </div>
+        </div>
+        <div class="row">
+
+        <div class="col-md-6">
+        <h3><span class="glyphicon glyphicon-earphone"></span> By Phone</h3>
+        <ul>
+          <li>For an immediate answer, call <span class="glyphicon glyphicon-earphone"></span> <span itemprop="telephone">1-514-360-5798</span>.
+          </li>
+        </ul>
+        <h3><span class="glyphicon glyphicon-envelope"></span> By Mail</h3>
+        <ul>
+          <li>For answers about webcast production, contact Claudia at <a href="mailto:claudia@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> <span itemprop="email">claudia@agencewebdiffusion.com</span></a>. </li>
+          <li>For answers about webcasting technologies and equipments, contact Daniel at <a href="mailto:daniel@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> daniel@agencewebdiffusion.com</a>. </li>
+          <li>For answers about web strategy and development for webcasts, contact Mathieu at <a href="mailto:mathieu@agencewebdiffusion.com"><span class="glyphicon glyphicon-envelope"></span> mathieu@agencewebdiffusion.com</a></li>
+        </ul>
+        <h3><span class="glyphicon glyphicon-comment"></span> Social Media</h3>
+        <ul>
+        <li>Start a Twitter conversation <span class="glyphicon glyphicon-twitter"></span> <a href="https://twitter.com/agencewebdiff">@agencewebdiff</a></li>
+        <li>Explore <a href="http://www.linkedin.com/company/agence-webdiffusion/">our LinkedIn</a></li>
+        </ul>
+        </div>
+        <div class="col-md-6">
+        <h3><span class="glyphicon glyphicon-list-alt"></span> By Form</h3>
+        <form action="http://getsimpleform.com/messages?form_api_token={{ site.form_api_token }}" method="post">
+          <div class="form-group">
+            <!-- all your input fields here.... -->
+            <label for="contact-nom">Your name</label>
+            <input id="contact-nom" type='text' class='form-control' name='nom' placeholder="Name" />
+            </div>
+            <div class="form-group">
+            <label for="contact-question">Your question</label>
+            <textarea id="contact-question" class='form-control' name='question' placeholder="Question" rows='3' noresize></textarea>
+            </div>
+            <div class="form-group">
+            <label for="contact-organisation">Your organisation</label>
+            <input id="contact-organisation" type='text' class='form-control' name='organisation' placeholder="Organisation" />
+            </div>
+            <div class="form-group">
+            <label for="contact-email-phone">Your phone or email</label>
+            <input id="contact-email-phone" type='text' class='form-control' name='email-phone' placeholder="Phone or Email" />
+          </div>
+          <input type='hidden' name='redirect_to' value='http://agencewebdiffusion.github.io/thanks.html'>
+          <input type='submit' class='btn btn-default' value='Submit' />
+        </form>
+
+        </div>
+        </div>
+      </div>
+
+      <div class="small text-center">
+        <p>Thanks for visiting :) &copy; 2013-2014 Agence Webdiffusion Inc. </p>
+        <p><a href="#">Back to Top</a> - <a href="/content">Back to Homepage</a></p>
+      </div>
+
+    </footer>
+{% endif %}
+
+  </span>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

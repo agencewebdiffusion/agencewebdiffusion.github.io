@@ -1,6 +1,7 @@
 ---
 title: Webcasting Platforms
 layout: pages
+language: en
 ---
 # The Webcasting Platform
 
