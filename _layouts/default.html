@@ -22,10 +22,10 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-39574436-1', 'auto');
       ga('send', 'pageview');
-    
+
     </script>
   </head>
   <body>
@@ -117,7 +117,7 @@
         </div>
         <div class="col-md-6">
         <h3><span class="glyphicon glyphicon-list-alt"></span> Par formulaire</h3>
-        <form action="http://getsimpleform.com/messages?form_api_token={{ site.form_api_token }}" method="post">
+        <form id="contact-form" action="" method="post">
           <div class="form-group">
             <!-- all your input fields here.... -->
             <label for="contact-nom">Votre nom</label>
@@ -189,7 +189,7 @@
         </div>
         <div class="col-md-6">
         <h3><span class="glyphicon glyphicon-list-alt"></span> By Form</h3>
-        <form action="http://getsimpleform.com/messages?form_api_token={{ site.form_api_token }}" method="post">
+        <form id="contact-form" action="" method="post">
           <div class="form-group">
             <!-- all your input fields here.... -->
             <label for="contact-nom">Your name</label>
@@ -231,6 +231,12 @@
     <script src="/waypoints.min.js"></script>
     <script type="text/javascript">
     $(window).load(function () {
+
+      // Lazy antispam measure
+      window.setTimeout(function () {
+        $("#contact-form").attr('action',"http://getsimpleform.com/messages?form_api_token={{ site.form_api_token }}");
+      }, 10000);
+
       $('.waypoint-bg').each(function () {
 
         if($(this).hasClass("plain")) {
