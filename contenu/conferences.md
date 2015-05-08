@@ -2,4 +2,50 @@
 title: Conférences 
 layout: pages
 ---
-<h3>Quel moment vous convient le mieux?</h3><h5>Regardez ce webinaire d&rsquo;une durée de 35 minutes le 7 mai 2015, à l&#39;une des heures indiquées ci-dessous.</h5><table align="center" style="border-collapse: collapse; border-spacing: 0px; margin-top: 1.5em; margin-bottom: 1.5em; border: 1px dotted rgb(211, 211, 211); width: 657px; font-family: &quot;Helvetica Neue&quot;,helvetica,arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 24px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; color: rgb(17, 17, 17);"><thead></thead><tbody style="border-top-style: none;"><tr><th scope="row" style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211); color: white; background: gray;">HEURE DE L&#39;ATLANTIQUE</th><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">13 h</td><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">20 h</td></tr><tr><th scope="row" style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211); color: white; background: gray;">HEURE DE L&#39;EST</th><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">12 h</td><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">19 h</td></tr><tr><th scope="row" style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211); color: white; background: gray;">HEURE DU CENTRE</th><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">11 h</td><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">18 h</td></tr><tr><th scope="row" style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211); color: white; background: gray;">HEURE DES ROCHEUSES*</th><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">10 h</td><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">17 h</td></tr><tr><th scope="row" style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211); color: white; background: gray;">HEURE DU PACIFIQUE</th><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">9 h</td><td style="text-align: center; padding: 0.5em 1em; border: 1px dotted rgb(211, 211, 211);">16 h</td></tr></tbody></table><p>* Heure des Rocheuses pour la Saskatchewan</p><h5 class="embed"><a class="bouton" href="http://bioinsightstudyii.evenement.agencewebdiffusion.com/fr/user/register"><strong>S&#39;inscrire maintenant</strong></a></h5>
+Conférences 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-b286{background-color:#f56b00}
+.tg .tg-xxs3{background-color:#32cb00}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-b286"></th>
+    <th class="tg-b286"></th>
+    <th class="tg-xxs3"></th>
+    <th class="tg-xxs3"></th>
+  </tr>
+  <tr>
+    <td class="tg-b286"></td>
+    <td class="tg-b286"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-b286"></td>
+    <td class="tg-b286"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-b286"></td>
+    <td class="tg-b286"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-b286"></td>
+    <td class="tg-b286"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-b286"></td>
+    <td class="tg-b286"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+</table>
