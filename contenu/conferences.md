@@ -20,17 +20,17 @@ Conférences
   <tr>
     <th class="tg-b286">HAhahah</th>
     <th class="tg-b286"></th>
-    <th class="tg-3ope"><img src="http://www.wpclipart.com/signs_symbol/checkmarks/checkmark_in_circle/.cache/ok_checkmark_green.png"></th>
+    <th class="tg-3ope"><img src="http://bigmoneyjust4you.com/images/checkmark.png"></th>
   </tr>
   <tr>
     <td class="tg-b286"></td>
     <td class="tg-b286"></td>
-    <td class="tg-031e"><img src="http://www.wpclipart.com/signs_symbol/checkmarks/checkmark_in_circle/.cache/ok_checkmark_green.png"></td>
+    <td class="tg-031e"><img src="http://bigmoneyjust4you.com/images/checkmark.png"></td>
   </tr>
   <tr>
     <td class="tg-b286"></td>
     <td class="tg-b286"></td>
-    <td class="tg-031e"><img src="http://www.wpclipart.com/signs_symbol/checkmarks/checkmark_in_circle/.cache/ok_checkmark_green.png"></td>
+    <td class="tg-031e"><img src="http://bigmoneyjust4you.com/images/checkmark.png"></td>
   </tr>
   <tr>
     <td class="tg-b286"></td>
