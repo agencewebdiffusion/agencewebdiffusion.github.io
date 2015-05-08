@@ -20,17 +20,17 @@ Conférences
   <tr>
     <th class="tg-b286">HAhahah</th>
     <th class="tg-b286"></th>
-    <th class="tg-3ope"><img src="http://cliparts.co/cliparts/8iE/7qe/8iE7qe8ia.png" alt="Mountain View" style="width:30px;height:30px"></th>
+    <th class="tg-3ope"><img src="http://www.wpclipart.com/signs_symbol/checkmarks/checkmark_in_circle/.cache/ok_checkmark_green.png"></th>
   </tr>
   <tr>
     <td class="tg-b286"></td>
     <td class="tg-b286"></td>
-    <td class="tg-031e"><img src="http://cliparts.co/cliparts/8iE/7qe/8iE7qe8ia.png" alt="Mountain View" style="width:30px;height:30px"></td>
+    <td class="tg-031e"><img src="http://www.wpclipart.com/signs_symbol/checkmarks/checkmark_in_circle/.cache/ok_checkmark_green.png"></td>
   </tr>
   <tr>
     <td class="tg-b286"></td>
     <td class="tg-b286"></td>
-    <td class="tg-031e"><img src="http://cliparts.co/cliparts/8iE/7qe/8iE7qe8ia.png" alt="Mountain View" style="width:30px;height:30px"></td>
+    <td class="tg-031e"><img src="http://www.wpclipart.com/signs_symbol/checkmarks/checkmark_in_circle/.cache/ok_checkmark_green.png"></td>
   </tr>
   <tr>
     <td class="tg-b286"></td>
