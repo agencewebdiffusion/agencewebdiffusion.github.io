@@ -5,8 +5,7 @@ layout: pages
 Conférences 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#aabcfe;}
-.tg .tg-vn4c{background-color:#D2E4FC}
+.tg  {border-collapse:collapse;border-spacing:1;border-color:#aabcfe;}
 </style>
 <table class="tg">
   <tr>
