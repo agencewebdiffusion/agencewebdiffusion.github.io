@@ -3,16 +3,20 @@ title: Conférences
 layout: pages
 ---
 Conférences 
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:10;border-color:#aabcfe;}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aabcfe;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#039;background-color:#b9c9fe;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-vn4c{background-color:#D2E4FC}
+.tg .tg-i7wz{font-size:20px}
 </style>
 <table class="tg">
   <tr>
     <th class="tg-031e"></th>
-    <th class="tg-031e">Conférence téléphonique</th>
-    <th class="tg-031e">Webconférence, vidéo-conférence et visioconférence</th>
-    <th class="tg-031e">Service de Webdiffusion</th>
+    <th class="tg-s6z2">Conférence téléphonique</th>
+    <th class="tg-s6z2">Webconférence, vidéo-conférence et visioconférence</th>
+    <th class="tg-s6z2">Service de Webdiffusion</th>
   </tr>
   <tr>
     <td class="tg-031e">Gain de temps (pas de déplacement)</td>
@@ -129,7 +133,7 @@ Conférences
     <td class="tg-vn4c">Équipe professionnelle sur place</td>
   </tr>
   <tr>
-    <td class="tg-031e">Technicien sur place</td>
+    <td class="tg-i7wz">Technicien sur place</td>
     <td class="tg-vn4c"></td>
     <td class="tg-031e"></td>
     <td class="tg-vn4c">Image du client rehaussée</td>
