@@ -5,46 +5,184 @@ layout: pages
 Conférences 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:7px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:7px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#bbb;color:#493F3F;background-color:#9DE0AD;}
-.tg .tg-3ope{background-color:#ffcb2f}
-.tg .tg-b286{background-color:#f56b00}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aabcfe;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#039;background-color:#b9c9fe;}
+.tg .tg-vn4c{background-color:#D2E4FC}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 434px">
-<colgroup>
-<col style="width: 209px">
-<col style="width: 153px">
-<col style="width: 72px">
-</colgroup>
+<table class="tg">
   <tr>
-    <th class="tg-b286">HAhahah</th>
-    <th class="tg-b286"></th>
-    <th class="tg-3ope"><img src="http://bigmoneyjust4you.com/images/checkmark.png"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e">Conférence téléphonique</th>
+    <th class="tg-031e">Webconférence, vidéo-conférence et visioconférence</th>
+    <th class="tg-031e">Service de Webdiffusion</th>
   </tr>
   <tr>
-    <td class="tg-b286"></td>
-    <td class="tg-b286"></td>
-    <td class="tg-031e"><img src="http://bigmoneyjust4you.com/images/checkmark.png"></td>
+    <td class="tg-031e">Gain de temps (pas de déplacement)</td>
+    <td class="tg-vn4c">x</td>
+    <td class="tg-031e">x</td>
+    <td class="tg-vn4c">x</td>
   </tr>
   <tr>
-    <td class="tg-b286"></td>
-    <td class="tg-b286"></td>
-    <td class="tg-031e"><img src="http://bigmoneyjust4you.com/images/checkmark.png"></td>
+    <td class="tg-031e">Gestion technique par le client</td>
+    <td class="tg-vn4c">x</td>
+    <td class="tg-031e">x</td>
+    <td class="tg-vn4c"></td>
   </tr>
   <tr>
-    <td class="tg-b286"></td>
-    <td class="tg-b286"></td>
+    <td class="tg-031e">Contact humain visuel</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e">Varie selon l'outil</td>
+    <td class="tg-vn4c">x</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Flexibilité</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e">x</td>
+    <td class="tg-vn4c">x</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Intégration d'un média</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e">Varie selon l'outil</td>
+    <td class="tg-vn4c">x</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Coût</td>
+    <td class="tg-vn4c">Varie en fonction des options choisies</td>
     <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
   </tr>
   <tr>
-    <td class="tg-b286"></td>
-    <td class="tg-b286"></td>
+    <td class="tg-031e">Professionnel</td>
+    <td class="tg-vn4c"></td>
     <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
   </tr>
   <tr>
-    <td class="tg-b286"></td>
-    <td class="tg-b286"></td>
+    <td class="tg-031e">Échange de documents en direct (P</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e">x</td>
+    <td class="tg-vn4c">x</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Gestion</td>
+    <td class="tg-vn4c"></td>
     <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Accès facile, sans téléchargement, sans plug in</td>
+    <td class="tg-vn4c">aucun visuel</td>
+    <td class="tg-031e">peu</td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Connexion visuelle avec les participants</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Enregistrement du contenu - permet la capture de l'information en format vidéo</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Qualité du son</td>
+    <td class="tg-vn4c">Piètre qualité</td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Qualité visuelle</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Accessible multiplateforme</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Réutilisation du contenu</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c">Gestion de la production</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c">Équipe professionnelle sur place</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Technicien sur place</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c">Image du client rehaussée</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Documents de support (présentation PDF, PPT) disponible en téléchargement</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c">Qualité visuelle</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">email d'invitation</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Perte de relation personnelle</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Participants parlent en même temps</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Liste des participants</td>
+    <td class="tg-vn4c">Co^</td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">En temps réel, le nombre de participants connectés à l'événement</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Aucun frais cachés!</td>
+    <td class="tg-vn4c"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-vn4c"></td>
   </tr>
 </table>
