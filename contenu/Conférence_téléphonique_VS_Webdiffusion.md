@@ -10,10 +10,12 @@ layout: pages
 
 <!--![](http://placehold.it/960x540&text=collage+plateformes)-->
 
-## Vous désirez:
+### Vous désirez:
 - Interagir avec les participants
 - Créer un contact humain
 - Assurer l’image de votre entreprise
+# Optez pour une solution de communication innovatrice: la webdiffusion en direct
+
 
 Une plateforme de webdiffusion est un logiciel qui sert à publier des chaînes de webdiffusion, à gérer des événements de webdiffusion et d’en faire la promotion au cours d’une campagne. Les plateformes les plus populaires proviennent de grandes entreprises américaines, dont Ustream, LiveStream et YouTube. Elles offrent des chaînes gratuites accessibles au grand public, en échange d’un branding de haut en bas de la chaîne au nom de leur marque. Le résultat est un environnement qui incite le visiteur à explorer les autres chaînes, au bénéfice de la grande entreprise. Même les chaînes « premium », offertes à des prix corporatifs, doivent se contenter du modèle central.
 
