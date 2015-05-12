@@ -14,6 +14,7 @@ layout: pages
 - Interagir avec les participants
 - Créer un contact humain
 - Assurer l’image de votre entreprise
+
 # Optez pour une solution de communication innovatrice: la webdiffusion en direct
 
 
