@@ -2,8 +2,7 @@
 title: Les plateformes de webdiffusion
 layout: pages
 ---
-# Vous devez vous adresser 
-à plus de 100 personnes?
+# Vous devez vous adresser à plus de 100 personnes?
 
 
 
