@@ -37,7 +37,7 @@ layout: pages
 
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 15px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;">Conf&eacute;rence t&eacute;l&eacute;phonique &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webdiffusion </span></span></p>
 
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 15px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;"><img height="148px;" src="https://lh6.googleusercontent.com/Y7OdrKVKlsnR-V-epqyWpPn6ilzSHbzcYS6znXnkKja3D_a84nBBfKhbqjo_-dHvATIpxJGkc-AXo6iG0XlEyLKawnNYj7V-m5yEjGPkJR8HbRb4M7I_DJKlpJPy8DExppnj68Q" style="border: none; transform: rotate(0.00rad); -webkit-transform: rotate(0.00rad);" width="447px;" /></span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 15px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;"><img height="148px;" src="/images/production-grande-envergure.jpg" style="border: none; transform: rotate(0.00rad); -webkit-transform: rotate(0.00rad);" width="447px;" /></span></span></p>
 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 15px; font-family: Arial; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">Vid&eacute;o ici si possible</span></span></p>
 
