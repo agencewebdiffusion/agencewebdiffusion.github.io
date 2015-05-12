@@ -2,12 +2,8 @@
 title: Conférences 
 layout: pages
 ---
-<!doctype html>
-<html>
-<head>
-	<title>HTML Editor - Full Version</title>
-</head>
-<body>
+<div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
+<!--![](http://placehold.it/960x540&text=Diagramme+de+projet)-->
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 28px; font-family: 'Trebuchet MS'; vertical-align: baseline; white-space: pre-wrap;">Vous devez vous adresser </span></span></p>
 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 28px; font-family: 'Trebuchet MS'; vertical-align: baseline; white-space: pre-wrap;">&agrave; plus de 100 personnes?</span></span></p>
@@ -69,5 +65,4 @@ layout: pages
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 28px; font-family: 'Trebuchet MS'; vertical-align: baseline; white-space: pre-wrap;">Contactez-nous!</span></span></p>
 
 <p>&nbsp;</p>
-</body>
-</html>
+
