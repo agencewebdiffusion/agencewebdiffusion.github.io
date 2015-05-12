@@ -4,6 +4,17 @@ layout: pages
 ---
 <div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
 <!--![](http://placehold.it/960x540&text=Diagramme+de+projet)-->
+Vous devez vous adresser 
+à plus de 100 personnes?
+
+
+Vous désirez:
+- Interagir avec les participants
+- Créer un contact humain
+- Assurer l’image de votre entreprise
+
+
+
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 28px; font-family: 'Trebuchet MS'; vertical-align: baseline; white-space: pre-wrap;">Vous devez vous adresser </span></span></p>
 
 <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span id="docs-internal-guid-b49830ca-49a1-53a8-042f-b55807fcf635"><span style="font-size: 28px; font-family: 'Trebuchet MS'; vertical-align: baseline; white-space: pre-wrap;">&agrave; plus de 100 personnes?</span></span></p>
