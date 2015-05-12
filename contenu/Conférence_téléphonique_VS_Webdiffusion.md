@@ -10,7 +10,7 @@ layout: pages
 
 <!--![](http://placehold.it/960x540&text=collage+plateformes)-->
 
-### Vous désirez:
+## Vous désirez:
 - Interagir avec les participants
 - Créer un contact humain
 - Assurer l’image de votre entreprise
