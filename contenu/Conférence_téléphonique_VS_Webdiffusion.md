@@ -2,7 +2,10 @@
 title: Les plateformes de webdiffusion
 layout: pages
 ---
-# La plateforme de diffusion
+# Vous devez vous adresser 
+à plus de 100 personnes?
+
+
 
 <div class="waypoint-bg plain"  style="background-color: #005EAD"></div>
 
