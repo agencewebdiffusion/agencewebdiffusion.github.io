@@ -4,7 +4,8 @@ layout: pages
 ---
 <div class="waypoint-bg plain"  style="background-color: #A1002A"></div>
 <!--![](http://placehold.it/960x540&text=Diagramme+de+projet)-->
-Vous devez vous adresser 
+---
+# Vous devez vous adresser 
 à plus de 100 personnes?
 
 
